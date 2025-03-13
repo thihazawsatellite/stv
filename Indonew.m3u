@@ -1,9 +1,84 @@
 #EXTM3U
 
-#EXTM3U url-tvg="https://www.bevy.be/bevyfiles/indonesia.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml.gz,"https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml"
-
 #EXTINF:-1 tvg-id="PutraTalawi-s9m" tvg-logo="https://cdn3.iconfinder.com/data/icons/social-network-30/512/social-06-512.png" group-title="Indonesia Channels",ABA SHWE 
 https://youtube.com/@PutraTalawi-s9m
+
+
+#EXTM3U url-tvg="https://www.bevy.be/bevyfiles/indonesia.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml.gz,"https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml"
+
+#EXTINF:-1 tvg-id="PutraTalawi-s9m" tvg-logo="https://cdn3.iconfinder.com/data/icons/social-network-30/512/social-06-512.png" group-title="Indonesia Channels",မြန်မာပြည်ကြီးအေးချမ်းသာယာပါစေ....
+https://youtube.com/@PutraTalawi-s9m
+
+#EXTINF:-1 group-title="MYANMAR TV" tvg-logo="https://i.imgur.com/lV7WEVs.png", Mahar BAWDI
+https://pplive.comquas.com:5443/LiveApp/streams/rHEBIW7pjQLU1677679374164.m3u8
+#https://ppradio.b-cdn.net/LiveApp/streams/rHEBIW7pjQLU1677679374164.m3u8
+
+#EXTINF:-1 group-title="MYANMAR TV" tvg-logo="https://play-lh.googleusercontent.com/wvOXePMu15onYRUrKL1L_IxYsth0dJLi_qCliblXvM0vfmUL2yFTzFSIBOAhCsrTxQ", Mahar TV
+https://tv.mahar.live/mahar/website.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="MYANMAR TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/MRTV_logo.png", MRTV
+https://5a13fe32ef748.streamlock.net/mmplay/mrtv/chunklist_w31827482.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMC8yMDI0IDU6NTM6NDAgQU0maGFzaF92YWx1ZT1pV3FzL1c1eSs2SmFZVFRlckE2SmFRPT0mdmFsaWRtaW51dGVzPTYwJnN0cm1fbGVuPTEx
+
+#EXTINF:-1 group-title="MYANMAR TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e1/MRTV-4.png/revision/latest?cb=20220604135321", MRTV-4
+https://5a13fe32ef748.streamlock.net/mmplay/mrtv-4/chunklist_w1248025825.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMS8yMDI0IDE6MDQ6MTUgUE0maGFzaF92YWx1ZT1JOHZ2MWV5eXF3aTBHd0V6NUZuUEVRPT0mdmFsaWRtaW51dGVzPTYwJnN0cm1fbGVuPTEz
+
+#EXTINF:-1 group-title="MYANMAR TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSrVf6cgFB6RoZAOuoCVYWt4siAG8bQkuPdwL6ZLAG6wmlNqM3PpIVgTzEcFs1LCRbNIw&usqp=CAU", MRTV Entertainment
+https://5a13fe32ef748.streamlock.net/mmplay/mrtv-entertainment/playlist.m3u8
+
+#EXTINF:-1 group-title="MYANMAR TV" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mrtv-hluttaw-mm.png", MRTV Parliament
+https://5a13fe32ef748.streamlock.net/mmplay/hluttaw/playlist.m3u8
+
+#EXTINF:-1 group-title="MYANMAR TV" tvg-logo="https://www.myanmartvchannels.com/assets/images/channeliconb/5plus.jpg", 5 Plus
+https://5a13fe32ef748.streamlock.net/mmplay/5plus/playlist.m3u8
+
+#EXTINF:-1 group-title="MYANMAR TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_m9Oj7qzR8JESDiS1qppOtJryjEXDl7qR-JzY4F5DF42w=s900-c-k-c0x00ffffff-no-rj", Channel 7
+https://5a13fe32ef748.streamlock.net/mmplay/channel7/playlist.m3u8
+
+#EXTINF:-1 group-title="MYANMAR TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK3lZYNo_oMyK_uYPv6OIb3OenTqkRbImwc5-vFrI8TrZd0P1wYN2FfsOMseLp4qiozw&usqp=CAU", Channel K
+https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream_hi/index.m3u8
+
+#EXTINF:-1 group-title="MYANMAR TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f1/Logo_of_MITV.png", MITV
+https://5a13fe32ef748.streamlock.net/mmplay/mitv/playlist.m3u8
+
+#EXTINF:-1 group-title="MYANMAR TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/54/Myanmar_National_TV_Logo.jpg", MNTV
+http://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8
+
+#EXTINF:-1 group-title="MYANMAR TV" tvg-logo="https://media.licdn.cn/dms/image/C4D0BAQEnCuEUhzaOzQ/company-logo_200_200/0/1520275067936?e=2159024400&v=beta&t=LtWp94VnKmBzGCajTkFMksodoGxGFzNOvb0PMHsGGPs", MCS
+https://l1-xl1.myanmarnet.com/relay2/mcs/ch1/stream_standard/index.m3u8
+
+#EXTINF:-1 group-title="MYANMAR TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/Channel_9_Myanmar_Logo.jpg", Channel 9
+https://pplive.comquas.com:5443/LiveApp/streams/rHEBIW7pjQLU1677679374164.m3u8
+
+#EXTINF:-1 group-title="MYANMAR TV" tvg-logo="https://i.imgur.com/MM5evnD.png", FortuneTV
+http://103.215.194.93:8282/hls/fortunetv/live/vmix_1080.m3u8
+
+#EXTINF:-1 group-title="MYANMAR TV" tvg-logo="https://i.imgur.com/ClmWqE5.png", FortuneTV
+http://103.215.194.93:8282/hls/fortunetv/live/vmix_1080.m3u8
+
+#EXTINF:-1 group-title="MYANMAR TV" tvg-logo="https://i.imgur.com/zyTQG9F.png", MWD
+http://203.81.84.130/hls/mwd/index.m3u8
+
+#EXTINF:-1 group-title="MYANMAR TV" tvg-logo="https://i.imgur.com/zyTQG9F.png", MWD
+http://203.81.84.130/hls/mwd_movie/index.m3u8
+
+#EXTINF:-1 group-title="MYANMAR TV" tvg-logo="https://i.imgur.com/uqrXcWB.png", YTV
+http://103.215.194.93:8282/hls/fortunetv/live/vmix_1080.m3u8
+
+#EXTINF:-1 group-title="MYANMAR TV" tvg-logo="https://i.imgur.com/5aLFslk.jpg", MRTV NEW
+https://5a13fe32ef748.streamlock.net/mmplay/mrtv/chunklist_w1986607729.m3u8
+
+#EXTINF:-1  group-title="MYANMAR TV" tvg-logo="https://play-lh.googleusercontent.com/wvOXePMu15onYRUrKL1L_IxYsth0dJLi_qCliblXvM0vfmUL2yFTzFSIBOAhCsrTxQ", MAHAR SPORTS 
+https://tv.mahar.live/esports/mahar.stream/esports/mahar2/chunks.m3u8
+
+#EXTINF:-1  group-title="MYANMAR TV" tvg-logo="https://play-lh.googleusercontent.com/wvOXePMu15onYRUrKL1L_IxYsth0dJLi_qCliblXvM0vfmUL2yFTzFSIBOAhCsrTxQ", MAHAR SPORTS 
+https://tv.mahar.live/esports/mahar.stream/esports/mahar2/chunks.m3u8
+
+#EXTINF:-1 group-title="MYANMAR TV" tvg-logo="https://i.imgur.com/zyTQG9F.png", TVM
+http://203.81.84.130/hls/mwd_serie/index.m3u8
+
+#EXTINF:-1 group-title="MYANMAR TV" tvg-logo="https://i.imgur.com/zyTQG9F.png", GOLDEN 
+http://203.81.84.130/hls/mwd_document/index.m3u8
+
 #EXTINF:-1 tvg-id="PutraTalawi-s9m" tvg-logo="https://cdn3.iconfinder.com/data/icons/social-network-30/512/social-06-512.png" group-title="Indonesia Channels",မြန်မာပြည်ကြီးအေးချမ်းပါစေ... 
 https://vt.tiktok.com/ZSMGRyJ31/
 
