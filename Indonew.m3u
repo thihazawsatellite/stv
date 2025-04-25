@@ -418,8 +418,10 @@ https://raw.githubusercontent.com/Koshwefull/gotv/refs/heads/main/SnapTube%20All
 #EXTM3U
 *************************MVTV**************************
 
-EXTINF:-1 tvg-id="PutraTalawi-s9m" tvg-logo="https://cdn3.iconfinder.com/data/icons/social-network-30/512/social-06-512.png" group-title="MVTV", Koshwefull 
-https://youtube.com/@PutraTalawi-s9m
+#EXTINF:-1 tvg-id="PutraTalawi-s9m" tvg-logo="https://cdn3.iconfinder.com/data/icons/social-network-30/512/social-06-512.png" group-title="MVTV",ABA SHWE 124
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1 tvg-id="PutraTalawi-s9m" tvg-logo="https://cdn3.iconfinder.com/data/icons/social-network-30/512/social-06-512.png" group-title="MVTV",👉👉👉အားပေးမှု့အတွက်အထူးကိုကျေးဇူးတင်ပါတယ်👍👍👍... 🇲🇲 မြန်မာပြည်ကြီးအေးချမ်းသာယာပါစေ🙏🙏🙏...
+https://raw.githubusercontent.com/Koshwefull/gotv/refs/heads/main/SnapTube%20All%20Videos.pls
 
 #EXTINF:1 tvg-logo="https://media-mvtv-app.imgix.net/uploads/channel/153_x_IMz6So10K5qk7i9tlCZFAYrsBLDp3Eye.jpg" group-title="MVTV", Boomerang
 https://edge6a.v2h-cdn.com/boomerang/boomerang.stream//playlist.m3u8
@@ -507,8 +509,12 @@ https://psiiptv-b.sky-cdn.com/v2h14-playlist/tracks-v1a1/mono.m3u8
 https://psiiptv-b.sky-cdn.com/v2h15-playlist/tracks-v1a1/mono.m3u8
 
 #############SPORT4K###############
-EXTINF:-1 tvg-id="PutraTalawi-s9m" tvg-logo="https://cdn3.iconfinder.com/data/icons/social-network-30/512/social-06-512.png" group-title="⚽ Sports", Koshwefull 
-https://youtube.com/@PutraTalawi-s9m
+
+#EXTINF:-1 tvg-id="PutraTalawi-s9m" tvg-logo="https://cdn3.iconfinder.com/data/icons/social-network-30/512/social-06-512.png" group-title="⚽ Sports",ABA SHWE 124
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1 tvg-id="PutraTalawi-s9m" tvg-logo="https://cdn3.iconfinder.com/data/icons/social-network-30/512/social-06-512.png" group-title="⚽ Sports",👉👉👉အားပေးမှု့အတွက်အထူးကိုကျေးဇူးတင်ပါတယ်👍👍👍... 🇲🇲 မြန်မာပြည်ကြီးအေးချမ်းသာယာပါစေ🙏🙏🙏...
+https://raw.githubusercontent.com/Koshwefull/gotv/refs/heads/main/SnapTube%20All%20Videos.pls
+
 
 #EXTINF:-1 tvg-id="TNTSports1.HD.uk" tvg-logo="https://media.info/l/o/1/1539.1690027797.png" group-title="⚽ Sports", TNTSports1-FHD
 https://7pal.short.gy/tntspts1
