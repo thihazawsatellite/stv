@@ -1,4 +1,4 @@
-know#EXTM3U
+#EXTM3U
 
 #EXTINF:-1 tvg-id="PutraTalawi-s9m" tvg-logo="https://cdn3.iconfinder.com/data/icons/social-network-30/512/social-06-512.png" group-title="ABA SHWE",ABA SHWE 124
 https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
@@ -61,6 +61,35 @@ http://203.81.84.130/hls/mwd_serie/index.m3u8
 http://203.81.84.130/hls/mwd_document/index.m3u8
 #EXTINF:-1 group-title="MYANMAR TV" tvg-logo="https://i.imgur.com/uqrXcWB.pg", DVB NWE
 https://live-stream.dvb.no/hls/stream_low/index.m3u8
+
+#EXTINF:-1 group-title="MYANMAR TV" tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/mahar-80x80-1ee.jpg", Mahar 
+https://tv.mahar.live/mahar/website.stream/mahar/website1/chunks.m3u8 
+#EXTINF:-1 group-title="MYANMAR TV" tvg-logo="https://maharesports.com/wp-content/uploads/2022/07/cropped-Mahar-Tab_Logo.png", Mahar ESport 
+https://tv.mahar.live/esports/mahar.stream/esports/mahar2/chunks.m3u8 
+#EXTINF:-1 group-title="MYANMAR TV" tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/channelk-80x80-d7c.jpg", Channelk 
+https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream_hi/index.m3u8 
+#EXTINF:-1 group-title="MYANMAR TV" tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/mntv-120x120-dda.jpg", MNTV 
+https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8
+#EXTINF:-1 group-title="MYANMAR TV" tvg-logo="https://i.postimg.cc/s2fDBbmJ/Picsart-22-10-15-20-00-02-106.jpg", MSC Movie 
+https://l1-xl1.myanmarnet.com/relay2/mcs/ch1/stream_standard/index.m3u8 
+#EXTINF:-1 group-title="MYANMAR TV" tvg-logo="https://brittcoconsulting.com/wp-content/uploads/2019/01/Myanmar-logo1.jpg", Myanamr Music 
+https://l1-xl1.myanmarnet.com/relay/music/ch1/stream_hi/index.m3u8 
+#EXTINF:-1 group-title="MYANMAR TV" tvg-logo="https://i.postimg.cc/VvR9mxkb/Picsart-22-11-20-15-21-13-205.png", TVM
+http://203.81.84.130/hls/mwd_serie/index.m3u8 
+#EXTINF:-1 group-title="MYANMAR TV" tvg-logo="https://i.postimg.cc/PJxsMk9t/Picsart-22-11-20-15-39-09-245.png", iWAR 
+http://203.81.84.130/hls/mwd_shopping/index.m3u8 
+#EXTINF:-1 group-title="MYANMAR TV" tvg-logo="https://i.postimg.cc/pr0z5Db0/Picsart-22-11-20-21-08-36-024.png", GOLDENLAND 
+http://203.81.84.130/hls/mwd_document/index.m3u8 
+#EXTINF:-1 group-title="MYANMAR TV" tvg-logo="https://i.postimg.cc/YCjKFkg8/Picsart-22-11-20-20-53-27-756.png", MWD HD 
+http://203.81.84.130/hls/mwd/index.m3u8 
+#EXTINF:-1 group-title="MYANMAR TV" tvg-logo="https://i.postimg.cc/9QX8Rp3h/Picsart-22-11-20-15-27-28-154.png", MWDVARIETY 
+http://203.81.84.130/hls/mwd_variety/index.m3u8 
+#EXTINF:-1 group-title="MYANMAR TV" tvg-logo="https://i.postimg.cc/gksLJyq8/Picsart-22-11-20-15-45-25-489.png", CLIGHT 
+http://203.81.84.130/hls/mwd_family/index.m3u8 
+#EXTINF:-1 group-title="MYANMAR TV" tvg-logo="https://i.postimg.cc/dQWqXWq7/Picsart-22-11-20-20-51-42-479.png", MWD HD SCHOOL 
+http://203.81.84.130/hls/mwd_movie/index.m3u8 
+#EXTINF:-1 group-title="MYANMAR TV" tvg-logo="https://i.postimg.cc/rFC73sGf/Picsart-22-10-20-21-39-56-999.jpg", MVTV  
+https://edge6a.v2h-cdn.com/mvm/mvm.stream/playlist.m3u8
 
 ##############C+######################
 
