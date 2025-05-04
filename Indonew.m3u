@@ -9758,3 +9758,1488 @@ https://livefta.malimarcdn.com/ftaedge00/teatv2.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5VDgLeS.png" group-title="MYANMAR / LAOS", HBTV(မြန်မာ)
 http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/playlist.m3u8
 
+////TAIWAN HK /////
+
+
+#EXTINF:0 group-title="TAIWAN / HK" tvg-logo="https://i.imgur.com/RgUqF7q.jpeg", 民視
+
+http://4gtv.mumi.rip:9877/3/4gtv-4gtv002/index.m3u8
+
+#EXTINF:0 group-title="TAIWAN / HK" tvg-logo="https://i.imgur.com/RgUqF7q.jpeg", 民視
+
+https://epg.pw/stream/151d9e43523a82c3a3bdaa1c54b08177028c783cdd72a2fa26442073dd59ffcb.ctv
+
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/formosa.m3u8
+
+http://50.7.234.10:8278/ftvtaiwan_twn/playlist.m3u8?tid=MDFD8196635981966359&ct=19226&tsum=b82639ac8b4590b4206effe348e2f9c2
+
+http://50.7.234.10:8278/ftvhd_taiwan/playlist.m3u8?tid=MC8C5908644059086440&ct=19249&tsum=c96d2cd48b11d40ca9e97fb3addb1384
+
+#EXTINF:0 group-title="TAIWAN / HK" tvg-logo="https://i.imgur.com/TmnVzaA.jpeg",民視新聞台
+
+http://4gtv.mumi.rip:9877/31/litv-ftv13/index.m3u8
+
+http://50.7.234.10:8278/ftvnew_taiwan/playlist.m3u8?tid=md953ce86cdad16241449&ct=17874&tsum=949d4aace793a001dd41392b210ba406
+
+#EXTINF:0 group-title="TAIWAN / HK" tvg-logo="https://i.imgur.com/TmnVzaA.jpeg",民視新聞台
+
+http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+
+#EXTINF:0 group-title="TAIWAN / HK" tvg-logo="https://i.imgur.com/0ovGg1P.jpeg",民視旅遊台
+
+http://4gtv.mumi.rip:9877/61/litv-ftv07/index.m3u8
+
+#EXTINF:0 group-title="TAIWAN / HK" tvg-logo="https://i.imgur.com/LRBVNgI.jpg",民視台灣台
+
+http://4gtv.mumi.rip:9877/2/4gtv-4gtv001/index.m3u8
+
+#EXTINF:0 group-title="TAIWAN / HK" tvg-logo="https://i.imgur.com/rwWBdB3.jpeg", 民視影劇台
+
+http://4gtv.mumi.rip:9877/24/litv-ftv09/index.m3u8
+
+#EXTINF:0 group-title="TAIWAN / HK" tvg-logo="https://i.imgur.com/nqLh2gE.jpg",民視第一台
+
+http://4gtv.mumi.rip:9877/1/4gtv-4gtv003/index.m3u8
+
+#EXTINF:0 group-title="TAIWAN / HK" tvg-logo="https://i.imgur.com/hLCHHh8.jpeg",民視綜藝台
+
+http://4gtv.mumi.rip:9877/16/4gtv-4gtv004/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Frxwt5h.png" group-title="TAIWAN / HK", SET TAIWAN 三立台湾台
+
+https://phdown.serv00.net/Smartv.php?id=sanlitaiwan
+
+http://50.7.234.10:8278/sanlitaiwan/playlist.m3u8?tid=m92ccadc4dc3718157816&ct=17874&tsum=3570a8198ca0fb7ebb803807e38b33fb
+
+http://50.7.234.10:8278/sanlitaiwan/playlist.m3u8?tid=MBFB2351438523514385&ct=19193&tsum=15393958be0bf6c0905bbb578dad1240
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Frxwt5h.png" group-title="TAIWAN / HK", SET TAIWAN 三立台湾台
+
+#EXTVLCOPT:http-user-agent=xplayer168
+
+http://125.227.210.55:8160/VideoInput/play.ts
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/NqcJBE7.png" group-title="TAIWAN / HK", 三立戲劇台
+
+http://61.221.215.25:8800/hls/41/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/t47oKiE.png" group-title="TAIWAN / HK",SET 三立综合台
+
+http://4gtv.mumi.rip:9877/169/4gtv-live207/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/t47oKiE.png" group-title="TAIWAN / HK",SET 三立综合台
+
+http://50.7.234.10:8278/sanlizhonghe/playlist.m3u8?tid=m3362167a08a014596868&ct=17874&tsum=4472a7c943b67bf52fe5e836ca9f3b6
+#EXTINF: -1 tvg-logo="https://i.imgur.com/N7lGEq1.jpeg" group-title="TAIWAN / HK", SET METRO 三立都會台
+
+http://50.7.234.10:8278/sanlidouhui_twn/playlist.m3u8?tid=md028b33ea0f7&ct=19361&tsum=1930e4b2cfbbd2f9f821af1c41e8d18d
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/5uAIjqL.jpeg" group-title="TAIWAN / HK", SET iNEWS 三立新聞台
+
+http://4gtv.mumi.rip:9877/229/4gtv-live089/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/2xhb2ap.jpeg" group-title="TAIWAN / HK", 三立新聞
+
+http://108.181.20.197/livehttpplay?channel_id=10126
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/2xhb2ap.jpeg" group-title="TAIWAN / HK", SET NEWS+ 三立新聞台
+
+http://cookies.elementfx.com/ublive/ublive.php?id=43
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/ezNf75Z.png" group-title="TAIWAN / HK", SET INTERNATIONAL 三立国际台
+
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/setinternational.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/WEWJbRx.png" group-title="TAIWAN / HK", 台视
+
+rtmp://f13h.mine.nu/sat/tv071
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/WEWJbRx.png" group-title="TAIWAN / HK", 台视
+
+http://50.7.234.10:8278/ttv_taiwan/playlist.m3u8?tid=MDCD7498841774988417&ct=19226&tsum=205fa69ca9e6c04cfa0ed0b301647d1e
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/NyUKdqw.jpeg" group-title="TAIWAN / HK", TTV NEWS 台视新闻台
+
+http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/NyUKdqw.jpeg" group-title="TAIWAN / HK", TTV NEWS 台视新闻台
+
+http://50.7.234.10:8278/ttvnews_twn/playlist.m3u8?tid=MD9D1039476110394761&ct=19193&tsum=9f33349842788bfb7b0e90e93f7bf02c
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/L9l8lTP.png" group-title="TAIWAN / HK", 中天亚洲台
+
+http://50.7.234.10:8278/ctiasia_twn/playlist.m3u8?tid=MBAB5565131955651319&ct=19249&tsum=6c292a6f51658779ced6a108f779ed35
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/L9l8lTP.png" group-title="TAIWAN / HK", 中天亚洲台
+
+http://50.7.234.10:8278/ctiasia_twn/playlist.m3u8?tid=mfc2c5bc6c101&ct=18335&tsum=d074a602fcd98718afeb8fc9a18fa964
+
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/ctiasia.m3u8
+
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Sm7HwxJ.jpeg" group-title="TAIWAN / HK", CTI ENTERTAINMENT 中天娱乐台
+
+http://61.221.215.25:8800/hls/47/index.m3u8
+
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Sm7HwxJ.jpeg" group-title="TAIWAN / HK", CTI ENTERTAINMENT 中天娱乐台
+
+http://50.7.234.10:8278/ctient/playlist.m3u8?tid=MC9C7081133170811331&ct=19249&tsum=8b08b54208f3ee30e12f419d587f46ac
+
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/ghi7mRm.jpeg" group-title="TAIWAN / HK", 中天新聞台
+
+http://4gtv.mumi.rip:9877/30/4gtv-4gtv009/index.m3u8
+
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/0f3Iq4V.jpeg" group-title="TAIWAN / HK", 中视
+
+http://4gtv.mumi.rip:9877/4/4gtv-4gtv040/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/ilA8RHU.png" group-title="TAIWAN / HK", CTV NEWS 中视新闻
+
+http://4gtv.mumi.rip:9877/33/4gtv-4gtv074/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/lUGJt37.png" group-title="TAIWAN / HK", 亞洲旅遊台
+
+http://50.7.234.10:8278/asiatravel_twn/playlist.m3u8?tid=MB9B9461769094617690&ct=18393&tsum=57c12e5ba95cca684613ec5e14714ff8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/8AvzEoi.png" group-title="TAIWAN / HK", 華視 CTS
+
+http://4gtv.mumi.rip:9877/6/4gtv-4gtv041/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vysg9SK.jpeg" group-title="TAIWAN / HK", 華視新聞
+
+http://4gtv.mumi.rip:9877/34/4gtv-4gtv052/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/vysg9SK.jpeg" group-title="TAIWAN / HK", 華視新聞
+
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/hua%20shi%20xin%20wen.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/yrsLV38.png" group-title="TAIWAN / HK", 纬来体育台
+
+rtmp://f13h.mine.nu/sat/tv721
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/oQIZpin.jpeg" group-title="TAIWAN / HK", 纬来音乐台
+
+rtmp://f13h.mine.nu/sat/tv701
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/XE2UqDK.jpeg" group-title="TAIWAN / HK", 纬来日本台
+
+rtmp://f13h.mine.nu/sat/tv771
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/XE2UqDK.jpeg" group-title="TAIWAN / HK", 纬来日本台
+
+http://50.7.234.10:8278/videolandjapan/playlist.m3u8?tid=MBAB7250273772502737&ct=19344&tsum=2b580b485643235654de4a1bbc9639cb
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/K2pmEvc.jpg" group-title="TAIWAN / HK", 緯來精采
+
+http://61.221.215.25:8800/hls/48/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/uwPtU5T.jpg" group-title="TAIWAN / HK", 緯來體育
+
+http://50.7.234.10:8278/videolandsport/playlist.m3u8?tid=MD2D5343800653438006&ct=19234&tsum=1be724fb8246abfedaf2bd088ec98f03
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Gr3Ml1U.png" group-title="TAIWAN / HK", MoMo 综合
+
+rtmp://f13h.mine.nu/sat/tv761
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/qD8rqZk.png" group-title="TAIWAN / HK", ELTA 娛樂台
+
+http://4gtv.mumi.rip:9877/19/4gtv-4gtv070/index.m3u8
+
+#EXTINF:-1 tvg-id="ELTA生活英語" tvg-name="ELTV 生活英語" tvg-logo="https://i.imgur.com/tGP6RB2.png" group-title="TAIWAN / HK", ELTA生活英語
+
+http://4gtv.mumi.rip:9877/106/litv-longturn20/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/5EsGLUS.png" group-title="TAIWAN / HK", ELTA体育1台
+
+https://phdown.serv00.net/Smartv.php?id=eltasport1_twn
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Wf22Ajz.png" group-title="TAIWAN / HK", ELTA体育2台
+
+https://phdown.serv00.net/Smartv.php?id=eltasport2_twn
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/51nYrJF.png" group-title="TAIWAN / HK", ELTA体育3台
+
+https://phdown.serv00.net/Smartv.php?id=eltasport3_twn
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/p8d1lrs.png" group-title="TAIWAN / HK", ELTA体育4台
+
+https://phdown.serv00.net/Smartv.php?id=natgeowild_twn
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/CQrhlG0.jpeg" group-title="TAIWAN / HK", DAZN体育1
+
+rtmp://f13h.mine.nu/sat/tv731
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/CQrhlG0.jpeg" group-title="TAIWAN / HK", DAZN体育2
+
+rtmp://f13h.mine.nu/sat/tv741
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/FL2V4nc.jpeg" group-title="TAIWAN / HK", 大爱一台
+
+https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/FL2V4nc.jpeg" group-title="TAIWAN / HK", 大爱二台
+
+https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+
+#EXTINF:-1 tvg-id="八大精彩台" tvg-name="八大精彩台" tvg-logo="https://assets.livednow.com/logo/八大精彩台.png" group-title="TAIWAN / HK", 八大精彩台
+
+http://4gtv.mumi.rip:9877/172/4gtv-4gtv034/index.m3u8
+
+#EXTINF:-1 tvg-id="八大綜藝台" tvg-name="八大綜藝台" tvg-logo="https://assets.livednow.com/logo/八大綜藝台.png" group-title="TAIWAN / HK", 八大綜藝台
+
+http://4gtv.mumi.rip:9877/114/4gtv-4gtv039/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/axciwNe.jpeg" group-title="TAIWAN / HK", GTV 八大戏剧
+
+http://50.7.234.10:8278/badadrama/playlist.m3u8?tid=m4970c4e1b988&ct=18335&tsum=20cb1d15d4e116ab9e44edb542cf51a5
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/koqyBMt.jpeg" group-title="TAIWAN / HK", GTV 八大第一
+
+http://50.7.234.10:8278/badafirst/playlist.m3u8?tid=MBDB5904995459049954&ct=19193&tsum=ab627e00a84b423b5747a65289eec076
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/SbhOvmS.png" group-title="TAIWAN / HK", GTV 八大综合
+
+http://50.7.234.10:8278/badazhonghe/playlist.m3u8?tid=MC7C4692263546922635&ct=19225&tsum=ffdc7a6397b511103e0df0b92e678790
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/DtTo9HY.png" group-title="TAIWAN / HK", ANIMAL PLANET TW 动物星球
+
+http://61.221.215.25:8800/hls/57/index.m3u8
+
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/nYDDtL6.png" group-title="TAIWAN / HK", BLOOMBERG TW
+
+#EXTVLCOPT:http-user-agent=xplayer168
+
+http://125.227.210.55:8161/VideoInput/play.ts
+
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Gy9f6XN.png" group-title="TAIWAN / HK", CARTOON NETWORK TW 卡通
+
+http://50.7.234.10:8278/momo1_twn/playlist.m3u8?tid=MFFF9797479997974799&ct=19249&tsum=0bd9dac79cd373cc918357d3199c8b22
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Gy9f6XN.png" group-title="TAIWAN / HK", CARTOON NETWORK TW 卡通
+
+#EXTVLCOPT:http-user-agent=xplayer168
+
+http://125.227.210.55:8167/VideoInput/play.ts
+
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/fiXhXyt.png" group-title="TAIWAN / HK", BBC NEWS TW
+
+#EXTVLCOPT:http-user-agent=xplayer168
+
+http://125.227.210.55:8165/VideoInput/play.ts
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/eOsI9WL.png" group-title="TAIWAN / HK", CNN TW
+
+#EXTVLCOPT:http-user-agent=xplayer168
+
+http://125.227.210.55:8166/VideoInput/play.ts
+
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/hYSGnsi.jpeg" group-title="TAIWAN / HK", 寰宇新聞台
+
+http://4gtv.mumi.rip:9877/36/litv-longturn14/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/z47DCtc.jpeg" group-title="TAIWAN / HK", 非凡新聞台
+
+rtmp://f13h.mine.nu/sat/tv581
+
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/3KRRWXc.png" group-title="TAIWAN / HK", EBC 东森超视
+
+rtmp://f13h.mine.nu/sat/tv331
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/l8iZ6Er.jpeg" group-title="TAIWAN / HK", EBC 東森新聞
+
+http://4gtv.mumi.rip:9877/292/4gtv-4gtv152/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/CQzD1Pr.png" group-title="TAIWAN / HK", EBC FINANCIAL 東森財經新聞台
+
+http://4gtv.mumi.rip:9877/293/4gtv-4gtv153/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/axSwv4q.png" group-title="TAIWAN / HK", ETTV 东森美洲
+
+http://38.64.72.148:80/hls/modn/list/2016/chunklist1.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/oWlU1pA.jpg" group-title="TAIWAN / HK", ETTV AMERICA
+
+http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/jKeIllS.png" group-title="TAIWAN / HK", ETTV CHINA 東森中国台
+
+http://38.64.72.148:80/hls/modn/list/2003/chunklist1.m3u8
+
+
+#EXTINF:-1, group-title="TAIWAN / HK" tvg-id="tvb xing he" tvg-logo="https://i.imgur.com/QNpsZx1.png",TVB XING HE
+
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/xinghe.m3u8
+
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/xinghe_2.m3u8
+
+#EXTINF:-1, group-title="TAIWAN / HK" tvg-id="tvb xing he" tvg-chno="YOGAM" tvg-logo="https://i.imgur.com/QNpsZx1.png",TVB XING HE
+
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=7f123a83acae4361b3c2d5d8d918ff1a:7031880a4c0c7e29014e32554b8b422d
+
+https://atemecdnbalancer-voe.sysln.id/live/eds/TVBXingHe/mpd/TVBXingHe.mpd
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/AFrcpmJ.png" group-title="TAIWAN / HK", TVBS ENTERTAINMENT CHANNEL 歡樂台
+
+http://4gtv.mumi.rip:9877/184/4gtv-4gtv068/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/AFrcpmJ.png" group-title="TAIWAN / HK", TVBS ENTERTAINMENT CHANNEL 歡樂台
+
+http://50.7.234.10:8278/tvbshuanle_twn/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=907472da94c4b947513e7befdce8071b
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/AFrcpmJ.png" group-title="TAIWAN / HK", TVBS 歡樂台 HD
+
+#EXTVLCOPT:http-user-agent=xplayer168
+
+http://125.227.210.55:8187/VideoInput/play.ts
+
+#EXTINF:-1, group-title="TAIWAN / HK" tvg-id="CHN" tvg-logo="https://i.imgur.com/RLjddWY.jpg", TVBS ASIA
+
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/tvbsasia.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/nmuAY5Z.png" group-title="TAIWAN / HK", TVBS台劇台
+
+http://4gtv.mumi.rip:9877/285/4gtv-live088/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/nmuAY5Z.png" group-title="TAIWAN / HK", TVBS HD
+
+http://50.7.234.10:8278/tvbs/playlist.m3u8?tid=MDED5111960351119603&ct=19226&tsum=49931e2d3885c468d56ffae2c2db9e6e
+
+http://50.7.234.10:8278/tvbs/playlist.m3u8?tid=MEFE3093330530933305&ct=19249&tsum=ce6b5e9293b3618104ad53084745a223
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/uXOarPt.png" group-title="TAIWAN / HK", TVBS 新聞台
+
+http://4gtv.mumi.rip:9877/291/4gtv-4gtv072/index.m3u8
+
+http://50.7.234.10:8278/tvbs_n/playlist.m3u8?tid=MECE3233774032337740&ct=19225&tsum=47a22a993d8e9b29582dfde5631c78b0
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/uXOarPt.png" group-title="TAIWAN / HK", TVBS 新聞台
+
+#EXTVLCOPT:http-user-agent=xplayer168
+
+http://125.227.210.55:8186/VideoInput/play.ts
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/G3RZqUO.jpeg" group-title="TAIWAN / HK", TVBS NEWS
+
+http://61.221.215.25:8800/hls/9/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="TAIWAN / HK" tvg-logo="https://i.imgur.com/VhsPC6Y.jpeg",TVB JADE
+
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/tvbjade.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/MnWNvw6.png" group-title="TAIWAN / HK", TVB CLASSIC
+
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/tvbclassic.m3u8
+
+#EXTINF: -1 tvg-id="6108" tvg-logo="https://i.imgur.com/PGIedb2.png" group-title="TAIWAN / HK", TAIWAN+
+
+https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
+
+#EXTINF: -1 tvg-id="DLD.TW" tvg-logo="https://i.imgur.com/1PWcINe.png" group-title="TAIWAN / HK", DALI 大立电视台
+
+http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/ouyQFKi.png" group-title="TAIWAN / HK", WXTV 唯心
+
+http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/PuhQeUk.png" group-title="TAIWAN / HK", 東森超視 34.5
+
+http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
+
+#EXTINF:-1 tvg-id="PhoenixChineseChannel.hk" tvg-logo="https://i.imgur.com/nS8i6by.png" group-title="TAIWAN / HK", PHOENIX CHINESE CHANNEL
+
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/phoenixchn.m3u8
+
+#EXTINF:-1 tvg-id="PhoenixInfoNewsChannel.hk" tvg-logo="https://i.imgur.com/UlTx7SN.png" group-title="TAIWAN / HK",PHOENIX INFO NEWS
+
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/phoenix_info.m3u8
+
+===CHINA===
+
+
+#EXTINF:-1, group-title="CHINA" tvg-id="tvb xing he" tvg-logo="https://i.imgur.com/QNpsZx1.png",TVB XING HE
+
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/xinghe.m3u8
+
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/xinghe_2.m3u8
+
+#EXTINF:-1, group-title="CHINA" tvg-id="tvb xing he" tvg-chno="YOGAM" tvg-logo="https://i.imgur.com/QNpsZx1.png",TVB XING HE
+
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=7f123a83acae4361b3c2d5d8d918ff1a:7031880a4c0c7e29014e32554b8b422d
+
+https://atemecdnbalancer-voe.sysln.id/live/eds/TVBXingHe/mpd/TVBXingHe.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
+
+#EXTVLCOPT:http-referrer=https://visionplus.id
+
+#EXTINF:-1 group-title="CHINA" tvg-logo="https://i.imgur.com/bKgwJZb.png?1", JIANGSU TV
+
+http://202.147.193.244/live/eds/JiangsuTV/sa_dash/JiangsuTV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
+
+#EXTVLCOPT:http-referrer=https://visionplus.id
+
+#EXTINF:-1 group-title="CHINA" tvg-logo="https://i.imgur.com/rciggYQ.jpg", HUNAN TV
+
+http://202.147.193.244/live/eds/HunanTV/sa_dash/HunanTV.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
+
+#EXTVLCOPT:http-referrer=https://visionplus.id
+
+#EXTINF:-1 group-title="CHINA" tvg-logo="https://i.imgur.com/wVmyuIW.png", SHANGHAI DRAGON TV
+
+http://202.147.193.244/live/eds/ShanghaiDragonTV/sa_dash/ShanghaiDragonTV.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
+
+#EXTVLCOPT:http-referrer=https://visionplus.id
+
+#EXTINF:-1 group-title="CHINA" tvg-logo="https://i.imgur.com/IughubM.png", ANHUI TV
+
+http://202.147.193.244/live/eds/AnhuiTV/sa_dash/AnhuiTV.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YHrLDix.png" group-title="CHINA",NTD 新唐人大陸台
+
+http://cnhls.ntdtv.com/cn/live800/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PhoenixChineseChannel.hk" tvg-logo="https://i.imgur.com/nS8i6by.png" group-title="CHINA", PHOENIX CHINESE CHANNEL
+
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/phoenixchn.m3u8
+
+#EXTINF:-1 tvg-id="PhoenixInfoNewsChannel.hk" tvg-logo="https://i.imgur.com/UlTx7SN.png" group-title="CHINA",PHOENIX INFO NEWS
+
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/phoenix_info.m3u8
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
+
+#EXTVLCOPT:http-referrer=https://visionplus.id
+
+#EXTINF:-1 group-title="CHINA" tvg-logo="https://i.imgur.com/H3dcQnd.png", CELESTIAL MOVIES HD
+
+http://202.147.193.244/live/eds/CelestialMovie/sa_dash/CelestialMovie.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
+
+#EXTVLCOPT:http-referrer=https://visionplus.id
+
+#EXTINF: -1 tvg-id="ccm.macan" tvg-logo="https://i.imgur.com/ckL85EB.png" group-title="CHINA", CELESTIAL CLASSIC MOVIES
+
+http://202.147.193.244/live/eds/CelestialClassic/sa_dash/CelestialClassic.mpd
+
+
+//CCTV//
+
+
+#EXTINF: -1 tvg-id="cctv1" tvg-logo="https://i.imgur.com/mctD9Pn.png" group-title="CHINA", CCTV 1
+
+http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+
+http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+
+https://phdown.serv00.net/Smartv.php?id=cctv1
+
+https://cdn5.163189.xyz/live/cctv1/stream.m3u8
+
+#EXTINF: -1 tvg-id="cctv2" tvg-logo="https://i.imgur.com/e41oLuC.png" group-title="CHINA", CCTV 2
+
+https://phdown.serv00.net/Smartv.php?id=cctv2
+
+#http://iptv.huuc.edu.cn/hls/cctv2hd.m3u8
+
+#EXTINF: -1 tvg-id="cctv3" tvg-logo="https://i.imgur.com/UxPErGk.png" group-title="CHINA", CCTV 3
+
+https://phdown.serv00.net/Smartv.php?id=cctv3
+
+http://iptv.huuc.edu.cn/hls/cctv3hd.m3u8
+
+#EXTINF: -1 tvg-id="cctv4" tvg-logo="https://i.imgur.com/NYnr6Mg.png" group-title="CHINA", CCTV 4
+
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+
+#EXTVLCOPT:http-referrer=http://dens.tv
+
+https://lb-mvtv-live.v2h-cdn.com/redirect/cctv4/cctv4.stream?type=m3u8
+
+http://op-group1-swiftservesd-1.dens.tv/s/s19/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=CCTV-4
+
+https://phdown.serv00.net/Smartv.php?id=cctv4
+
+#EXTINF: -1 tvg-id="cctv5" tvg-logo="https://i.imgur.com/lzJCfQO.png" group-title="CHINA", CCTV 5
+
+https://phdown.serv00.net/Smartv.php?id=cctv5
+
+#http://iptv.huuc.edu.cn/hls/cctv5hd.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/92fmBl6.png" group-title="CHINA", CCTV 5+
+
+https://phdown.serv00.net/Smartv.php?id=cctv5plus
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/tTTNfh3.png" group-title="CHINA", CCTV 6
+
+https://phdown.serv00.net/Smartv.php?id=cctv6
+
+#http://iptv.huuc.edu.cn/hls/cctv6hd.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/btdgEhM.png" group-title="CHINA", CCTV 7
+
+https://phdown.serv00.net/Smartv.php?id=cctv7
+
+#http://iptv.huuc.edu.cn/hls/cctv7hd.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/dPcukes.png" group-title="CHINA", CCTV 8
+
+http://iptv.huuc.edu.cn/hls/cctv8hd.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/B3u13VM.png" group-title="CHINA", CCTV 9
+
+http://50.7.234.10:8278/cctv9hd/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=a5996f5cef4778b3f837279fa3e9ecbf
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/CsPS8Op.png" group-title="CHINA", CCTV 10
+
+http://iptv.huuc.edu.cn/hls/cctv10hd.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Ef8b4fl.png" group-title="CHINA", CCTV 11
+
+https://phdown.serv00.net/Smartv.php?id=cctv11
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/YPjBdTp.png" group-title="CHINA", CCTV 12
+
+http://iptv.huuc.edu.cn/hls/cctv12hd.m3u8
+
+#https://phdown.serv00.net/Smartv.php?id=cctv12
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/oC4jhXd.png" group-title="CHINA", CCTV 15
+
+https://phdown.serv00.net/Smartv.php?id=cctv15
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/k1U8bVZ.png" group-title="CHINA", CCTV 16
+
+https://phdown.serv00.net/Smartv.php?id=cctv16
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/e9mw40Q.png" group-title="CHINA", CCTV 17
+
+https://phdown.serv00.net/Smartv.php?id=cctv17
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aPun7xH.png" group-title="CHINA", CCTV ENTERTAINMENT
+
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/cctv_ent.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MFuJPM7.png" group-title="CHINA", CCTV+
+
+http://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/chunklist_w1018196661_b1000000.m3u8
+
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/浙江新闻.png" group-title="CHINA",浙江新闻
+
+https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/浙江国际.png" group-title="CHINA",浙江国际
+
+https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/浙江少儿.png" group-title="CHINA",浙江少儿
+
+https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/浙江教科影视.png" group-title="CHINA",浙江教科
+
+https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/puBiuLK.jpeg" group-title="CHINA",之江纪录
+
+https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/浙江民生休闲.png" group-title="CHINA",浙江民生
+
+https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/浙江经济生活.png" group-title="CHINA",浙江经济
+
+https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/钱江都市.png" group-title="CHINA",浙江钱江
+
+https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+
+///// SINGAPURA /////
+
+
+#EXTINF:-1 group-title="SINGAPORE" tvg-id="Ch 8" tvg-chno="Ch 8" tvg-logo="https://i.imgur.com/DKd7UPQ.png",CHANNEL 8
+
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/sg_channel_8.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=a4315e7266024dfc9ddb9667727d9635:485a55859fda05a1e3e8ae1ae63906e8
+
+#EXTINF:-1 group-title="SINGAPORE" tvg-id="Ch 8" tvg-chno="YOGAM" tvg-logo="https://i.imgur.com/DKd7UPQ.png",CHANNEL 8
+
+https://tglmp02.akamaized.net/out/v1/423fa206c4ea458ebe83d6edd172eb10/manifest.mpd
+
+#EXTINF:-1 group-title="SINGAPORE" tvg-id="Channel 5" tvg-chno="Channel 5" tvg-logo="https://i.imgur.com/qDr6o6o.png",CHANNEL 5
+
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/sg_channel_5.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=1b8ee3db17d34547983a2c3ddc3d28fc:fb5deb5f688fd67ec20c71191c7f4590
+
+#EXTINF:-1 group-title="SINGAPORE" tvg-id="Channel 5" tvg-chno="YOGAM" tvg-logo="https://i.imgur.com/qDr6o6o.png",CHANNEL 5
+
+https://tglmp02.akamaized.net/out/v1/8c503a6966554d439035588f10505eee/manifest.mpd
+
+
+#EXTINF:-1 group-title="SINGAPORE" tvg-id="Ch U" tvg-chno="Ch U" tvg-logo="https://i.imgur.com/g2jX1Nl.png",CHANNEL U
+
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/sg_channel_u.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=981fda1d42aa4d81b367d85794447e2a:61f0b7e53768214d4d56917fbcfc2723
+
+#EXTINF:-1 group-title="SINGAPORE" tvg-id="Ch U" tvg-chno="YOGAM" tvg-logo="https://i.imgur.com/g2jX1Nl.png",CHANNEL U
+
+https://tglmp03.akamaized.net/out/v1/151218455da04a47be327aa14be3e5cb/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZMM2M3QTBCU3B4M3BNZmtKdEtyLVg4akxLRUpBVG9YOEdTLWktZFczUWdrUjVMc0puRXJoakR1cVpVRjI4c2tZQ01JM2Z1S3RhdG9idWszUlgwX3Q3LTEwZnNBdzhvMGhjSnl3MFVOWkY4STBvVl9QVDdob0R4N2Nnb2taemg4eWFQdnE1UlhiaS1UMVpuc19rR0h3UEJWeWhRMk9iaTB1SGtydUNsUmE1T3lBdWpvbVJlQ0ltVUJIRmt0VkFxZEM0dzBfdFRWeF9qM3R4UEdSalpSUnlsZ2hpRVU2REtMM05ZSm5iYi1JUGpkUWpRYkZfbVdBV3IxV2IxZnhXTzN5c2oxUnNqcFlrWWNORzhUUnFkN0lWTFRpeW1kTDIzSnBnM2pMN0lXQld2ZktOdzVJMXh5eVlWVGRSQ3N5b1pOZkE9PSZjb250ZXh0VHlwZT1ub25lJmlkPTU3NTQxNDkiLCJhY2NvdW50X2lkIjoyMDgyMzExLCJjb250ZW50X2lkIjoiZnRhX2NuYVNfZGFzaF90dl9kcm0iLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TVRRM2ZMM2M3QTBCU3B4M3BNZmtKdEtyLVg4akxLRUpBVG9YOEdTLWktZFczUWdrUjVMc0puRXJoakR1cVpVRjI4c2tZQ01JM2Z1S3RhdG9idWszUlgwX3Q3LTEwZnNBdzhvMGhjSnl3MFVOWkY4STBvVl9QVDdob0R4N2Nnb2taemg4eWFQdnE1UlhiaS1UMVpuc19rR0h3UEJWeWhRMk9iaTB1SGtydUNsUmE1T3lBdWpvbVJlQ0ltVUJIRmt0VkFxZEM0dzBfdFRWeF9qM3R4UEdSalpSUnlsZ2hpRVU2REtMM05ZSm5iYi1JUGpkUWpRYkZfbVdBV3IxV2IxZnhXTzN5c2oxUnNqcFlrWWNORzhUUnFkN0lWTFRpeW1kTDIzSnBnM2pMN0lXQld2ZktOdzVJMXh5eVlWVGRSQ3N5b1pOZkE9PSIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjE0N30%3d&signature=2s8z%2buGAFtPGNxcjDuXCIOx8h0s%3d
+
+#EXTINF:-1 group-title="SINGAPORE" tvg-id="CNA" tvg-chno="CNA" tvg-logo="https://i.imgur.com/bsQCS1j.png",CNA
+
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=4ee336861eed4840a555788dc54aea6e:f1f53644d4941d4ed31b4bb2478f8cf4
+
+#EXTINF:-1 group-title="SINGAPORE" tvg-id="CNA" tvg-chno="YOGAM" tvg-logo="https://i.imgur.com/bsQCS1j.png",CNA
+
+https://tglmp03.akamaized.net/out/v1/43856347987b4da3890360b0d18b5dc5/manifest.mpd
+
+#EXTINF:-1 group-title="SINGAPORE" tvg-id="Suria" tvg-chno="Suria" tvg-logo="https://i.imgur.com/aYJNUjC.png",SURIA
+
+#EXTVLCOPT:http-user-agent=xplayer168
+
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/sg_suria.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=db646b3742ba42718a28436a1f401aa8:75a545066954b9b7fafa96d72a844e00
+
+#EXTINF:-1 group-title="SINGAPORE" tvg-id="Suria" tvg-chno="YOGAM" tvg-logo="https://i.imgur.com/aYJNUjC.png",SURIA
+
+https://d19h5fcpqoh625.cloudfront.net/out/v1/00ac947de8174a54bd0f52226115d1db/manifest.mpd
+
+#EXTINF:-1 group-title="SINGAPORE" tvg-id="Vasantham" tvg-chno="Vasantham" tvg-logo="https://i.imgur.com/niCFn0b.png",VASANTHAM
+
+#EXTVLCOPT:http-user-agent=xplayer168
+
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/sg_vasantham.m3u8
+
+http://50.7.234.10:8278/Vasantham/playlist.m3u8?tid=MA4A6452258764522587&ct=19249&tsum=56d66d64d5fcb76b5fb2749126a582e1
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=239d5a09def64776bec6c74271dfafa9:8e3c76df4951eaa21e9c9c28af6b56d1
+
+#EXTINF:-1 group-title="SINGAPORE" tvg-id="Vasantham" tvg-chno="YOGAM" tvg-logo="https://i.imgur.com/niCFn0b.png",VASANTHAM
+
+https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/237653/assetType/media/assetFileId/5754108/contextType/PLAYBACK/isAltUrl/False/a.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/BC2YtdZ.png" group-title="SINGAPORE", MEDIACORP ENTERTAINMENT ENGLSIH
+
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-english/manifest.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/BC2YtdZ.png" group-title="SINGAPORE", MEDIACORP ENTERTAINMENT CHINESE
+
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-chinese/manifest.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/BC2YtdZ.png" group-title="SINGAPORE", MEDIACORP ENTERTAINMENT TAMIL
+
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-tamil/manifest.m3u8
+
+#EXTINF:-1 group-title="SINGAPORE" tvg-logo="https://i.imgur.com/1CPsDuY.png", ANIMAX
+
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/sg_anim
+
+====MALAYSIA====
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/711/
+
+#EXTINF:-1, group-title="MALAYSIA" tvg-id="" tvg-logo="https://i.imgur.com/znFJy1M.jpeg", TV1
+
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
+
+#EXTINF:-1, group-title="MALAYSIA" tvg-id="" tvg-logo="https://i.imgur.com/znFJy1M.jpeg", TV1
+
+https://mifntechnology.github.io/siaranMy/channels/Tv1/index.m3u8
+
+#EXTINF:-1, group-title="MALAYSIA" tvg-id="" tvg-logo="https://i.imgur.com/wrGnHkH.jpeg", TV2
+
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
+
+#EXTINF:-1, group-title="MALAYSIA" tvg-id="" tvg-logo="https://i.imgur.com/wrGnHkH.jpeg", TV2
+
+https://mifntechnology.github.io/siaranMy/channels/Tv2/index.m3u8
+
+#EXTINF:-1, group-title="MALAYSIA" tvg-id="" tvg-logo="https://i.imgur.com/SyVOcgi.jpeg", TV3
+
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/tv3%20my.m3u8
+
+#EXTINF:-1, group-title="MALAYSIA" tvg-id="" tvg-logo="https://i.imgur.com/l8H0j3N.jpeg", TV6
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/711/
+
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=1
+
+#EXTINF:-1, group-title="MALAYSIA" tvg-id="" tvg-logo="https://i.imgur.com/l8H0j3N.jpeg", TV6
+
+https://mifntechnology.github.io/siaranMy/channels/Tv6/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fqmmfAE.png" group-title="MALAYSIA", DIDIKTV KPM
+
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/didiktv%20kpm%20my.m3u8
+
+#EXTINF:-1, group-title="MALAYSIA" tvg-id="" tvg-logo="https://i.imgur.com/Fn9cXNu.jpeg", 8TV
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BW4eSVc9LK7ly0/nj4xPPQ", "kid":"qcYZB07TjCDiWtNsPFfBDA" } ], "type":"temporary" }
+
+https://unifi-live08.secureswiftcontent.com/UnifiHD/live08.mpd
+
+#EXTINF:-1, group-title="MALAYSIA" tvg-id="" tvg-logo="https://i.imgur.com/Fn9cXNu.jpeg", 8TV
+
+https://mifntechnology.github.io/siaranMy/channels/8tv/index.m3u8
+
+http://50.7.234.10:8278/TV8/playlist.m3u8?tid=MDFD8437455184374551&ct=19225&tsum=ea08ca3d3651a75f499af2fc429eee35
+
+https://tonton-live-ssai.akamaized.net/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/.m3u8
+
+#EXTINF:-1, group-title="MALAYSIA" tvg-id="" tvg-logo="https://i.imgur.com/Hhu11Rj.jpeg", TV9
+
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/tv9%20my.m3u8
+
+https://mifntechnology.github.io/siaranMy/channels/Tv9/index.m3u8
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/711/
+
+#EXTINF:-1, group-title="MALAYSIA" tvg-id="" tvg-logo="https://i.imgur.com/EgoxpIW.jpeg", TV OKEY
+
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=1
+
+#EXTINF:-1, group-title="MALAYSIA" tvg-id="" tvg-logo="https://i.imgur.com/EgoxpIW.jpeg", TV OKEY
+
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
+
+https://mifntechnology.github.io/siaranMy/channels/TvOkey/index.m3u8
+
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd?id=3
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+
+#EXTINF:-1 group-title="MALAYSIA" tvg-id="" tvg-logo="https://i.imgur.com/QsUOz6j.png", TRAVEL & TASTE
+
+https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_5/dash.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+
+#EXTINF:-1 group-title="MALAYSIA" tvg-id="" tvg-logo="https://i.imgur.com/5P7IDyr.png", DRAMA HOTPOT
+
+https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_4/dash.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+
+#EXTINF:-1 group-title="MALAYSIA" tvg-id="" tvg-logo="https://i.imgur.com/9Xu4g0K.png", FILEM MANTAP
+
+https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_2/dash.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+
+#EXTINF:-1 group-title="MALAYSIA" tvg-id="" tvg-logo="https://i.imgur.com/pwskxR6.png", LAWAK SENTRAL
+
+https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_3/dash.mpd
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+
+#EXTINF:-1 group-title="MALAYSIA" tvg-id="" tvg-logo="https://i.imgur.com/iQq1DA8.png", DRAMA HEBAT
+
+https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_1/dash.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+
+#EXTINF:-1 tvg-id="130.astro" tvg-logo="https://i.imgur.com/ketHEET.png" group-title="MALAYSIA",JOM NGAJI
+
+https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_6/dash.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+
+#EXTINF:-1 tvg-id="136.astro" tvg-logo="https://i.imgur.com/NOtlvmz.png" group-title="MALAYSIA",OH MY CERIA!
+
+https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_7/dash.mpd
+
+#EXTINF:-1, group-title="MALAYSIA" tvg-id="" tvg-logo="https://i.imgur.com/Gsys2ps.png", DUNIA SINEMA HD
+
+https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/DuniaSinema/index.m3u8
+
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"XwbW5xMzNV60uJG01fUJdQ", "kid":"IEsTi0zUlCNmh6AWzyCloQ" } ], "type":"temporary" }
+
+#EXTINF:-1, group-title="MALAYSIA" tvg-id="" tvg-logo="https://i.imgur.com/Gsys2ps.png", DUNIA SINEMA HD
+
+https://unifi-live07.secureswiftcontent.com/UnifiHD/live27.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"nBBcxoyqnPZTFeBu9Qhgqw", "kid":"GQDQ/Y39I1fKJoXGZii/Bw" } ], "type":"temporary" }
+
+#EXTINF:-1 tvg-id="118.unifi" ch-number="118" tvg-logo="https://i.imgur.com/Jy4nyva.png" group-logo="" group-title="MALAYSIA",INSPIRASI
+
+https://unifi-live07.secureswiftcontent.com/UnifiHD/live29.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"IH86w2yNXIU5XBRxVNQVgQ", "kid":"HNDzPbWoJshQ4O9sqTMagg" } ], "type":"temporary" }
+
+#EXTINF:-1 tvg-id="113.unifi" ch-number="113" tvg-logo="https://i.imgur.com/ZPzgHsH.png" group-logo="" group-title="MALAYSIA",SALAM
+
+https://unifi-live07.secureswiftcontent.com/UnifiHD/live32.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"OjNo+jhaBJaV/03jw2gJzQ", "kid":"/CPEQjVYVJkqJkkxoo/BxQ" } ], "type":"temporary" }
+
+#EXTINF:-1 tvg-id="121.unifi" ch-number="121" tvg-logo="https://i.imgur.com/3auwPTb.png" group-logo="" group-title="MALAYSIA",SIAR
+
+https://unifi-live07.secureswiftcontent.com/UnifiHD/live31.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hUCt2Cw.jpeg", group-title="MALAYSIA", RTB SUKMAINDERA 
+
+https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zjtjYgj.jpeg", group-title="MALAYSIA", RTB GO LIVE
+
+https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xIvKdnh.jpeg", group-title="MALAYSIA", RTB ANEKA 
+
+https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist_b1120000_sleng.m3u8
+
+#EXTINF:-1, group-title="MALAYSIA" tvg-id="CHN" tvg-logo="https://i.imgur.com/gF8K1JX.jpeg", TVBS ASIA
+
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/tvbsasia.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/woIhys2.png" group-title="MALAYSIA", TVBS NEWS
+
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/tvbsxin-wen-3.m3u8
+
+#EXTINF:-1, group-title="MALAYSIA" tvg-id="tvb xing he" tvg-logo="https://i.imgur.com/dsIecrv.png", TVB XING HE
+
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/xinghe.m3u8
+
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/xinghe_2.m3u8
+
+#EXTINF:-1, group-title="MALAYSIA" tvg-id="tvb xing he" tvg-chno="YOGAM" tvg-logo="https://i.imgur.com/dsIecrv.png", TVB XING HE
+
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+
+#KODIPROP:inputstream.adaptive.license_key=7f123a83acae4361b3c2d5d8d918ff1a:7031880a4c0c7e29014e32554b8b422d
+
+https://atemecdnbalancer-voe.sysln.id/live/eds/TVBXingHe/mpd/TVBXingHe.mpd
+
+#EXTINF:-1 tvg-id="" group-title="MALAYSIA" tvg-logo="https://i.imgur.com/odMDAfA.jpeg", TVB JADE
+
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/tvbjade.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/oVdFkJ1.png" group-title="MALAYSIA", TVB CLASSIC
+
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/tvbclassic.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m7NPUNp.png" group-title="MALAYSIA", ASTRO BOO
+
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/astro%20boo.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iDfmPTT.jpeg" group-title="MALAYSIA", ASTRO OASIS
+
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/ASTRO%20OASIS.m3u8
+
+#EXTINF: -1 tvg-id="AstroAura.my" tvg-name="Aura" tvg-logo="https://i.imgur.com/XGlIJbp.png" group-title="MALAYSIA", ASTRO AURA
+
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/ASTRO%20AURA.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HiFy9Sr.png" group-title="MALAYSIA", ASTRO AWANI
+
+https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HiFy9Sr.png" group-title="MALAYSIA", ASTRO AWANI
+
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/ASTRO%20AWANI.m3u8
+
+#EXTINF:-1 tvg-id="channelnewsasia.macan" tvg-logo="https://i.imgur.com/3grTBuk.png" group-title="MALAYSIA", CNA
+
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 tvg-id="Berita RTM" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium1.xml" tvg-logo="https://i.imgur.com/8za864O.png" group-title="MALAYSIA", BERITA RTM
+
+https://d25tgymtnqzu8s.cloudfront.net/smil:berita/chunklist_b2596000_slENG.m3u8?id=5
+
+#EXTINF: -1 tvg-id="BERNAMA" tvg-name="Bernama" tvg-logo="https://i.imgur.com/DLPZHyT.png" group-title="MALAYSIA", BERNAMA
+
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/BERNAMA.m3u8
+
+#EXTINF:-1 tvg-id="SUKANRTM" group-title="MALAYSIA" tvg-logo="https://i.imgur.com/SsC4z6a.jpeg", SUKAN RTM
+
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JDOs08k.png" group-title="MALAYSIA", ASTRO SHOWCASE
+
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/showcase.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qEFUJi0.jpeg" group-title="MALAYSIA", IQIYI
+
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/iqiyi.m3u8
+
+#EXTINF:-1 tvg-id="AsianFoodNetwork.sg" tvg-name="AsianFoodNetwork.sg" tvg-chno="AsianFoodNetwork.sg" tvg-logo="https://i.imgur.com/INheXcE.png" group-title="MALAYSIA", ASIAN FOOD NETWORK
+
+#EXTVLCOPT:http-user-agent=xplayer168
+
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/afn.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hbUb8fA.png" group-title="MALAYSIA", ASTRO HUA HEE DAI
+
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/ASTRO%20HUA%20HEE%20DAI.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZpX2d0Q.png" group-title="MALAYSIA", WWE NETWORK
+
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/wwenetwork.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XVn5XW9.png" group-title="MALAYSIA", ZEE TAMIL
+
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/ZEE%20TAMIL.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W1JwhvB.png" group-title="MALAYSIA", STAR VIJAY
+
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/STAR%20VIJAY.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tePyLeY.png" group-title="MALAYSIA", SUN TV
+
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SUN%20TV.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO CRICKET" tvg-logo="https://i.imgur.com/V1RTxQU.png" group-title="MALAYSIA", ASTRO CRICKET
+
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/astro%20cricket.m3u8
+
+
+/////KOREA////
+
+
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/9G7lN5c.png", TVN HD
+
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+
+#EXTVLCOPT:http-referrer=http://dens.tv
+
+http://op-group1-swiftservehd-1.dens.tv/h/h20/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=tvN_HD
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
+
+#EXTVLCOPT:http-referrer=https://visionplus.id
+
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/9G7lN5c.png", TVN HD
+
+http://202.147.193.244/live/eds/tvN/sa_dash/tvN.mpd#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/9G7lN5c.png", TVN HD
+
+#https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/TVN.m3u8
+
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/KUFtsr4.png", TVN MOVIES
+
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+
+#EXTVLCOPT:http-referrer=http://dens.tv
+
+https://op-group1-swiftservehd-1.dens.tv/h/h21/01.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
+
+#EXTVLCOPT:http-referrer=https://visionplus.id
+
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/KUFtsr4.png", TVN MOVIES
+
+http://202.147.193.244/live/eds/tvNMovies/sa_dash/tvNMovies.mpd
+
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/KUFtsr4.png", TVN MOVIES
+
+#https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/TVNMOVIES.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
+
+#EXTVLCOPT:http-referrer=https://visionplus.id
+
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/weT5Wcy.png", ONE
+
+http://202.147.193.244/live/eds/SetOne/sa_dash/SetOne.mpd
+
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/weT5Wcy.png", ONE
+
+#https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/ONE.m3u8
+
+#EXTINF: -1 tvg-id="kplus.id" tvg-logo="https://i.imgur.com/LJZpIWK.png" group-title="KOREA", KPLUS
+
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+
+#EXTVLCOPT:http-referrer=http://dens.tv
+
+https://op-group1-swiftservehd-1.dens.tv/h/h08/01.m3u8
+
+#EXTINF: -1 tvg-id="kplus.id" tvg-logo="https://i.imgur.com/LJZpIWK.png" group-title="KOREA", KPLUS
+
+#EXTVLCOPT:http-user-agent=xplayer168
+
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/kplus.m3u8
+#EXTINF: -1 tvg-id="kbs world" tvg-logo="https://i.imgur.com/GJiAy3m.png" group-title="KOREA", KBS WORLD
+
+http://mytv.dothome.co.kr/ch/catv/7.php
+
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/kbsworld.m3u8
+
+#EXTINF: -1 tvg-id="kbs world" tvg-logo="https://i.imgur.com/GJiAy3m.png" group-title="KOREA", KBS WORLD
+
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+
+#EXTVLCOPT:http-referrer=http://dens.tv
+
+https://op-group1-swiftservehd-1.dens.tv/h/h243/02.m3u8
+
+
+#EXTINF: -1 tvg-id="kbs world" tvg-logo="https://i.imgur.com/NX5OBSh.jpeg" group-title="KOREA", KBS KOREA
+
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+
+#EXTVLCOPT:http-referrer=http://dens.tv
+
+https://op-group1-swiftservehd-1.dens.tv/h/h241/02.m3u8
+
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/H2L3ua6.png", KBS1
+
+http://mytv.dothome.co.kr/ch/public/1.php
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/uHOFlEx.png", KBS2
+
+http://mytv.dothome.co.kr/ch/public/3.php
+
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/x1cQdwp.png", KBS NEWS D
+
+http://mytv.dothome.co.kr/ch/catv/1.php
+
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/lWb0YQo.png", KBS DRAMA
+
+http://mytv.dothome.co.kr/ch/catv/2.php
+
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/kFiBmr5.png", KBS JOY
+
+http://mytv.dothome.co.kr/ch/catv/3.php
+
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/9yge6DE.png", KBS STORY
+
+http://mytv.dothome.co.kr/ch/catv/4.php
+
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/6DR8hIL.png", KBS LIFE
+
+http://mytv.dothome.co.kr/ch/catv/5.php
+
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/r6CHRC6.png", KBS KIDS
+
+http://mytv.dothome.co.kr/ch/catv/6.php
+
+#EXTINF:-1 tvg-id="KBSLiveCamDokDo.kr" tvg-logo="https://i.imgur.com/7mZnPO5.png" group-title="KOREA",KBS LIVECAM DOKDO
+
+http://kbs-dokdo.gscdn.com/dokdo_300/dokdo_300.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HomeShopping.kr" tvg-logo="https://i.imgur.com/IcexRXG.png" group-title="KOREA",HOME SHOPPING
+
+https://s28.qtcdn.co.kr/media/liveM3U8/idx/518045142/enc/1860408350/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HyundaiHomeShopping.kr" tvg-logo="https://i.imgur.com/NJpECmq.png" group-title="KOREA",HYUNDAI HOME SHOPPING
+
+https://livejj.hyundaihmall.com:8443/live/ngrp:hmall.stream_pc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HyundaiHomeShoppingPlusShop.kr" tvg-logo="https://i.imgur.com/DoNOuZE.png" group-title="KOREA",HYUNDAI HOME SHOPPING PLUS
+
+https://dtvstreaming.hyundaihmall.com/newcjp3/_definst_/newcjpstream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CJOnStyle.kr" tvg-logo="https://i.imgur.com/JiSfEBv.png" group-title="KOREA",CJ ONSTYLE
+
+https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CJOnStylePlus.kr" tvg-logo="https://i.imgur.com/OYmOL20.png" group-title="KOREA",CJ ONSTYLE+
+
+https://live-ch2.cjonstyle.net/cjosplus/live2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ABN.kr" tvg-logo="https://www.abn.co.kr/resources/images/logo.png" group-title="KOREA",ABN
+
+https://vod2.abn.co.kr/IPHONE/abn.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5qNkvMZ.png" group-title="KOREA", NEW KPOP
+
+https://8fd4e0b07d96480eb52382739cc8acce.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewKID/76da8a34-9b9c-4920-b86f-934fbdaa2fcf/2.m3u8
+
+#EXTINF:-1 group-title="KOREA" tvg-logo="https://i.imgur.com/7HTQYht.png", ARIRANG
+
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ArirangUN.kr" tvg-logo="https://i.imgur.com/Jdy3WNm.png" group-title="KOREA",ARIRANG UN
+
+https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ArirangRadio.kr" tvg-logo="https://i.imgur.com/dtfiG9k.png" group-title="KOREA",ARIRANG RADIO
+
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/WzatxMZ.jpeg" group-title="KOREA", EBS EN
+
+https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/aYDMvJV.png" group-title="KOREA", EBS KIDS
+
+https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/mbQlIZN.png" group-title="KOREA", EBS 1
+
+https://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/YyHdbsh.png" group-title="KOREA", EBS 2
+
+https://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.ibb.co/nwywk5M/79K98aG.png" group-title="KOREA", EBS+1
+
+https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.ibb.co/tJLpsDs/U5lEc22.png" group-title="KOREA", EBS+2
+
+https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FGTV.kr" tvg-logo="https://i.ibb.co/crxz0fd/yfgc-hearder-logo.png" group-title="KOREA",FGTV
+
+https://fgtvlive.fgtv.com/smil:fgtv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GCN.kr" tvg-logo="https://i.imgur.com/yzwtMOC.png" group-title="KOREA",GCN
+
+http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_1300k.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GongyoungHomeShopping.kr" tvg-logo="https://i.imgur.com/YL3rpd7.png" group-title="KOREA",GONGYOUNG HOME SHOPPING
+
+https://etv.publichs.com/live5.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Cchannel.kr" tvg-logo="https://i.ibb.co/GC73Fxt/logo.png" group-title="KOREA",C CHANNEL
+
+https://ythls.armelin.one/channel/UC9Ac9DjBEmNqjAYxf8V1HPA.m3u8
+
+#EXTINF:-1 tvg-id="GoodTV.kr" tvg-logo="https://i.ibb.co/1v913gn/logo-goodtv.png" group-title="KOREA",GOOD TV
+
+http://mobliestream.c3tv.com:1935/live/goodtv.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GSMyShop.kr" tvg-logo="https://i.imgur.com/ETPQwui.png" group-title="KOREA",GS MY SHOP
+
+https://gstv-myshop.gsshop.com/myshop_hd/myshop_hd.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GSShop.kr" tvg-logo="https://i.imgur.com/F7QDbEy.png" group-title="KOREA",GS SHOP
+
+https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GugakTV.kr" tvg-logo="https://i.imgur.com/Ey7Htm8.png" group-title="KOREA",GUGAK TV
+
+https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Iotkspd.png" group-title="KOREA",BBS TV 불교
+
+http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BTNTV.kr" tvg-logo="https://i.imgur.com/sOoS7RQ.png" group-title="KOREA",BTN TV
+
+https://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
+
+
+===JAPAN===
+
+
+#EXTINF:-1 group-title="JAPAN" tvg-id="nhkg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK G 
+
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS291&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 group-title="JAPAN" tvg-id="nhke" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png", NHK E 
+
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS292&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 group-title="JAPAN" tvg-id="ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png", NTV 
+
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS294&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 group-title="JAPAN" tvg-id="tbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/2560px-Tokyo_Broadcasting_System_logo_2020.svg.png", TBS 
+
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS296&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 group-title="JAPAN" tvg-id="fujitv" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png", FUJI TV  
+
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS298&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 group-title="JAPAN" tvg-id="tvasahi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/2560px-TV_Asahi_Logo.svg.png", TV ASAHI
+
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS295&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 group-title="JAPAN" tvg-id="tvtokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/2560px-TV_Tokyo_logo_20110629.svg.png", TV TOKYO 
+
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS297&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 group-title="JAPAN" tvg-id="homedrama" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/home-drama-channelpng-jp.png", ホームドラマチャンネル HOME DRAMA CHANNEL
+
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS294&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 group-title="JAPAN" tvg-id="neco" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/channel-neco-jp.png", 映画・チャンネル NECO
+
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS223&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 group-title="JAPAN" tvg-id="fox" tvg-logo="https://i.imgur.com/eTlwd3h.png", FOX JAPAN
+
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS312&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-id="ntvnews24" tvg-logo="https://i.imgur.com/bh9ttoG.png" group-title="JAPAN",日テレNEWS24
+
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS349&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7ppGHgo.png" group-title="JAPAN", BS SkyPerfecTV!
+
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS241&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7ppGHgo.png" group-title="JAPAN", Lala TV
+
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS314&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7ppGHgo.png" group-title="JAPAN", BS Asahi
+
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS151&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7ppGHgo.png" group-title="JAPAN", Channel Neco
+
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS223&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7ppGHgo.png" group-title="JAPAN", Sky A
+
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS250&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7ppGHgo.png" group-title="JAPAN", Fox Japan
+
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS312&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7ppGHgo.png" group-title="JAPAN", Nittere G+
+
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS257&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7ppGHgo.png" group-title="JAPAN", J Sports 3
+
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS244&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7ppGHgo.png" group-title="JAPAN", Family Gekijo
+
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS293&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7ppGHgo.png" group-title="JAPAN", Movie Plus
+
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS240&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7ppGHgo.png" group-title="JAPAN", J Sports 1
+
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS242&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7ppGHgo.png" group-title="JAPAN", Nippon Eiga Senmon Channel
+
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS255&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7ppGHgo.png" group-title="JAPAN", Kids Station
+
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS330&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7ppGHgo.png" group-title="JAPAN", BS TV Tokyo
+
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS171&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7ppGHgo.png" group-title="JAPAN", Super! Drama TV
+
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS310&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7ppGHgo.png" group-title="JAPAN", BS Fuji
+
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS181&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7ppGHgo.png" group-title="JAPAN", J=Sports 4
+
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7ppGHgo.png" group-title="JAPAN", WOWOW Live
+
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS192&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7ppGHgo.png" group-title="JAPAN", BS TBS
+
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS161&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7ppGHgo.png" group-title="JAPAN", WOWOW Cinema
+
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS193&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7ppGHgo.png" group-title="JAPAN", Nittere News 24
+
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS349&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7ppGHgo.png" group-title="JAPAN", J Sports 2
+
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS243&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7ppGHgo.png" group-title="JAPAN", Golf Network
+
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS262&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7ppGHgo.png" group-title="JAPAN", WOWOW Prime
+
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS191&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7ppGHgo.png" group-title="JAPAN", NHK BS1
+
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS101&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7ppGHgo.png" group-title="JAPAN", Music On! TV
+
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS325&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7ppGHgo.png" group-title="JAPAN", Channel Ginga
+
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS305&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7ppGHgo.png" group-title="JAPAN", BS Tsuri Vision
+
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS251&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7ppGHgo.png" group-title="JAPAN", BS Nittere
+
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS141&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7ppGHgo.png" group-title="JAPAN", Jidaigeki Senmon Channel
+
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS292&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7ppGHgo.png" group-title="JAPAN", Gaora Sports
+
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS254&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7ppGHgo.png" group-title="JAPAN", BS Animax
+
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS236&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7ppGHgo.png" group-title="JAPAN", Toei Channel
+
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS218&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7ppGHgo.png" group-title="JAPAN", NHK BS Premium
+
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS103&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7ppGHgo.png" group-title="JAPAN", Star Channel 1
+
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS200&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7ppGHgo.png" group-title="JAPAN", Star Channel 2
+
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS201&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7ppGHgo.png" group-title="JAPAN", Star Channel 3
+
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS202&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
