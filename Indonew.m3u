@@ -1,4 +1,6 @@
 #EXTM3U
+#EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=1920x1080
+https://raw.githubusercontent.com/Koshwefull/gotv/refs/heads/main/Indonew.m3u
 
 #EXTINF:-1 tvg-id="PutraTalawi-s9m" tvg-logo="https://cdn3.iconfinder.com/data/icons/social-network-30/512/social-06-512.png" group-title="ABA SHWE",ABA SHWE 124
 https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
