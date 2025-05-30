@@ -478,24 +478,73 @@ https://raw.githubusercontent.com/Koshwefull/gotv/refs/heads/main/SnapTube%20All
 #############################################
 
 #EXTINF:-1 tvg-id="" tvg-name="NZ SKY Sport 1" tvg-logo="https://i.ibb.co.com/wZG3fvmr/Skysportslive.png" group-title="(NZ) Sky Sports",NZ SKY Sport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e1b86f309cef49db8826768dbbda7259:ab4b4a37d84ecbc55a9064f5305c239c
 http://imediatv666.store:7777/Mads77/GTRQEDTCY/142003
+
 #EXTINF:-1 tvg-id="" tvg-name="NZ SKY Sport 2" tvg-logo="https://i.ibb.co.com/wZG3fvmr/Skysportslive.png" group-title="(NZ) Sky Sports",NZ SKY Sport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e1b86f309cef49db8826768dbbda7259:ab4b4a37d84ecbc55a9064f5305c239c
 http://imediatv666.store:7777/Mads77/GTRQEDTCY/142004
+
 #EXTINF:-1 tvg-id="" tvg-name="NZ SKY Sport 3" tvg-logo="https://i.ibb.co.com/wZG3fvmr/Skysportslive.png" group-title="(NZ) Sky Sports",NZ SKY Sport 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e1b86f309cef49db8826768dbbda7259:ab4b4a37d84ecbc55a9064f5305c239c
 http://imediatv666.store:7777/Mads77/GTRQEDTCY/142005
+
 #EXTINF:-1 tvg-id="" tvg-name="NZ SKY Sport 4" tvg-logo="https://i.ibb.co.com/wZG3fvmr/Skysportslive.png" group-title="(NZ) Sky Sports",NZ SKY Sport 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e1b86f309cef49db8826768dbbda7259:ab4b4a37d84ecbc55a9064f5305c239c
 http://imediatv666.store:7777/Mads77/GTRQEDTCY/142006
+
 #EXTINF:-1 tvg-id="" tvg-name="NZ SKY Sport 5" tvg-logo="https://i.ibb.co.com/wZG3fvmr/Skysportslive.png" group-title="(NZ) Sky Sports",NZ SKY Sport 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e1b86f309cef49db8826768dbbda7259:ab4b4a37d84ecbc55a9064f5305c239c
 http://imediatv666.store:7777/Mads77/GTRQEDTCY/142007
+
 #EXTINF:-1 tvg-id="" tvg-name="NZ SKY Sport 6" tvg-logo="https://i.ibb.co.com/wZG3fvmr/Skysportslive.png" group-title="(NZ) Sky Sports",NZ SKY Sport 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e1b86f309cef49db8826768dbbda7259:ab4b4a37d84ecbc55a9064f5305c239c
 http://imediatv666.store:7777/Mads77/GTRQEDTCY/142008
+
 #EXTINF:-1 tvg-id="" tvg-name="NZ SKY Sport 7" tvg-logo="https://i.ibb.co.com/wZG3fvmr/Skysportslive.png" group-title="(NZ) Sky Sports",NZ SKY Sport 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e1b86f309cef49db8826768dbbda7259:ab4b4a37d84ecbc55a9064f5305c239c
 http://imediatv666.store:7777/Mads77/GTRQEDTCY/142009
+
 #EXTINF:-1 tvg-id="" tvg-name="NZ SKY Sport 8" tvg-logo="https://i.ibb.co.com/wZG3fvmr/Skysportslive.png" group-title="(NZ) Sky Sports",NZ SKY Sport 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e1b86f309cef49db8826768dbbda7259:ab4b4a37d84ecbc55a9064f5305c239c
 http://imediatv666.store:7777/Mads77/GTRQEDTCY/142010
+
 #EXTINF:-1 tvg-id="" tvg-name="NZ SKY Sport 9" tvg-logo="https://i.ibb.co.com/wZG3fvmr/Skysportslive.png" group-title="(NZ) Sky Sports",NZ SKY Sport 9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e1b86f309cef49db8826768dbbda7259:ab4b4a37d84ecbc55a9064f5305c239c
 http://imediatv666.store:7777/Mads77/GTRQEDTCY/142011
+
 #EXTINF:-1 tvg-id="" tvg-name="NZ SKY Sport SELECT" tvg-logo="https://i.ibb.co.com/wZG3fvmr/Skysportslive.png" group-title="(NZ) Sky Sports",NZ SKY Sport SELECT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e1b86f309cef49db8826768dbbda7259:ab4b4a37d84ecbc55a9064f5305c239c
 http://imediatv666.store:7777/Mads77/GTRQEDTCY/142012
 
 
