@@ -7,11 +7,6 @@ https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
 #EXTINF:-1 tvg-id="PutraTalawi-s9m" tvg-logo="https://cdn3.iconfinder.com/data/icons/social-network-30/512/social-06-512.png" group-title="ABA SHWE",👉👉👉အားပေးမှု့အတွက်အထူးကိုကျေးဇူးတင်ပါတယ်👍👍👍... 🇲🇲 မြန်မာပြည်ကြီးအေးချမ်းသာယာပါစေ🙏🙏🙏...
 https://raw.githubusercontent.com/Koshwefull/gotv/refs/heads/main/SnapTube%20All%20Videos.pls
 
-#EXTINF:-1 tvg-id="PutraTalawi-s9m" tvg-logo="https://cdn3.iconfinder.com/data/icons/social-network-30/512/social-06-512.png" group-title="Indonesia Channels",ABA SHWE 124
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
-#EXTINF:-1 tvg-id="PutraTalawi-s9m" tvg-logo="https://cdn3.iconfinder.com/data/icons/social-network-30/512/social-06-512.png" group-title="Indonesia Channels",👉👉👉အားပေးမှု့အတွက်အထူးကိုကျေးဇူးတင်ပါတယ်👍👍👍... 🇲🇲မြန်မာပြည်ကြီးအေးချမ်းသာယာပါစေ🙏🙏🙏...
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
-
 #EXTINF:-1 tvg-id="PutraTalawi-s9m" tvg-logo="https://cdn3.iconfinder.com/data/icons/social-network-30/512/social-06-512.png" group-title="MYANMAR TV",ABA SHWE 124
 https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
 #EXTINF:-1 group-title="MYANMAR TV" tvg-logo="https://i.imgur.com/lV7WEVs.png", Mahar BAWDI
@@ -2797,190 +2792,11 @@ http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
 #EXTINF:-1 tvg-logo="https://mantul.biz.id:443/images/Bh_KsKKmAFbCbf59m4eiZIWNpl71WJ-N2srJ_e6Sch8neanq0wH_u5dVBHwxwTVKQInQYGBEd9vWf1TFi4ez5Q.png" group-title="Suport Kitkat",NET
 http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/80292
 
-********Indonesia Channels********
 
-#EXTINF:-1 tvg-id="PutraTalawi-s9m" tvg-logo="https://cdn3.iconfinder.com/data/icons/social-network-30/512/social-06-512.png" group-title="Indonesia Channels", Koshwefull 
-https://youtube.com/@PutraTalawi-s9m
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9ba3e153ef8956d6e2b0684fcf74f58f:dbc28cb5c6426080f984a5b6d436bb30
-#EXTINF:-1 tvg-id="RCTI.id" tvg-name="rcti" tvg-logo="https://mantul.biz.id:443/images/Bh_KsKKmAFbCbf59m4eiZIWNpl71WJ-N2srJ_e6Sch_hQLLUH6FRA-f05CTt3fkCvV9pUaPkSG6-iCXgE7RLHg.png" group-title="Indonesia Channels",RCTI
-https://cempedak-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+############*******Berita*******#########
 
-#EXTINF:-1 tvg-id="RCTI.id" tvg-name="rcti" tvg-logo="https://mantul.biz.id:443/images/Bh_KsKKmAFbCbf59m4eiZIWNpl71WJ-N2srJ_e6Sch_hQLLUH6FRA-f05CTt3fkCvV9pUaPkSG6-iCXgE7RLHg.png" group-title="Indonesia Channels",RCTI
-https://mantul.biz.id:443/user010223/user010223/4906.ts
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=828e0aba9825c3546a2831e4c0c36f7f:f85d3dcd38981368ab3da597e97ebdcc
-#EXTINF:-1 tvg-id="MNCTV HD - [Channel 432].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://mantul.biz.id:443/images/Bh_KsKKmAFbCbf59m4eiZIWNpl71WJ-N2srJ_e6Sch_M9o_ig3lupuxbMkR8E6OTquhVYjUdqos4TEFj06nKKg.png" group-title="Indonesia Channels",MNC TV
-https://cempedak-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
-
-#EXTINF:-1 tvg-id="MNCTV.id" tvg-name="mnc tv" tvg-logo="https://mantul.biz.id:443/images/Bh_KsKKmAFbCbf59m4eiZIWNpl71WJ-N2srJ_e6Sch_M9o_ig3lupuxbMkR8E6OTquhVYjUdqos4TEFj06nKKg.png" group-title="Indonesia Channels",MNC TV
-https://mantul.biz.id:443/user010223/user010223/191.ts
-
-#EXTINF:-1 tvg-name="antv" tvg-logo="https://mantul.biz.id:443/images/S3qjABwxNNrSZo8bz52n6WLRCGvxOa1GP3TWmrz2yekYMmrXoUjKXN7tnGQPM44js-tusWwMsaHdKwvB-aaaRw.png" group-title="Indonesia Channels",ANTV
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/165072
-#EXTINF:-1 tvg-name="antv" tvg-logo="https://mantul.biz.id:443/images/S3qjABwxNNrSZo8bz52n6WLRCGvxOa1GP3TWmrz2yekYMmrXoUjKXN7tnGQPM44js-tusWwMsaHdKwvB-aaaRw.png" group-title="Indonesia Channels",ANTV
-http://iptv12k.com:35461/654321/123456/1806
-#EXTINF:-1 tvg-name="antv" tvg-logo="https://mantul.biz.id:443/images/S3qjABwxNNrSZo8bz52n6WLRCGvxOa1GP3TWmrz2yekYMmrXoUjKXN7tnGQPM44js-tusWwMsaHdKwvB-aaaRw.png" group-title="Indonesia Channels",ANTV
-http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/165072
-#EXTINF:-1 tvg-name="antv" tvg-logo="https://mantul.biz.id:443/images/S3qjABwxNNrSZo8bz52n6WLRCGvxOa1GP3TWmrz2yekYMmrXoUjKXN7tnGQPM44js-tusWwMsaHdKwvB-aaaRw.png" group-title="Indonesia Channels",ANTV
-https://mantul.biz.id:443/user010223/user010223/206.ts
-
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=88f6c7cbd793374cb5f12d7e26dcd63b:e82daa7c7bfb03d99327463fdbd37336
-#EXTINF:-1 tvg-id="GTV HD - [Channel 431].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://mantul.biz.id:443/images/Bh_KsKKmAFbCbf59m4eiZIWNpl71WJ-N2srJ_e6Sch_dfcS2rxlBR2YIaPB0xJUJgOZL3e6go3OpaMr0tEk9iQ.png" group-title="Indonesia Channels",GTV
-https://cempedak-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
-
-#EXTINF:-1 tvg-id="GTV.id" tvg-name="gtv" tvg-logo="https://mantul.biz.id:443/images/Bh_KsKKmAFbCbf59m4eiZIWNpl71WJ-N2srJ_e6Sch_dfcS2rxlBR2YIaPB0xJUJgOZL3e6go3OpaMr0tEk9iQ.png" group-title="Indonesia Channels",GTV
-https://mantul.biz.id:443/user010223/user010223/192.ts
-#EXTINF:-1 tvg-id="GTV.id" tvg-name="gtv hd" tvg-logo="https://mantul.biz.id:443/images/Bh_KsKKmAFbCbf59m4eiZIWNpl71WJ-N2srJ_e6Sch_dfcS2rxlBR2YIaPB0xJUJgOZL3e6go3OpaMr0tEk9iQ.png" group-title="Indonesia Channels",GTV HD
-https://mantul.biz.id:443/user010223/user010223/8932.ts
-
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=334950781f60a66f5e58324b70ac675d:73caca97be8999ce9cfeb3babad8669d
-#EXTINF:-1 tvg-id="TransTV" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://mantul.biz.id:443/images/lO4I6ENDRiY1iG64O8qqg0ZtrxiLbqvUTLwRTGgU7FkIQ-iTHznxre-gRihG7-7zqFX4kj3z8TL8Ct_A-1hQkPMbFuk3P8lq05Jpx9IxGiQwKzsMdaHB4tfmo1BeDFg4IQLFblQiyf62U1tzgVIkg_wSpQnJfwulH5VZUu9lKcs1TQfGJJW8JFJSu1pgUqsM.png" group-title="Indonesia Channels",TransTV HD
-https://cempedak-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
-
-#EXTINF:-1 tvg-id="TransTV.id" tvg-name="transtv" tvg-logo="https://mantul.biz.id:443/images/lO4I6ENDRiY1iG64O8qqg0ZtrxiLbqvUTLwRTGgU7FkIQ-iTHznxre-gRihG7-7zqFX4kj3z8TL8Ct_A-1hQkPMbFuk3P8lq05Jpx9IxGiQwKzsMdaHB4tfmo1BeDFg4IQLFblQiyf62U1tzgVIkg_wSpQnJfwulH5VZUu9lKcs1TQfGJJW8JFJSu1pgUqsM.png" group-title="Indonesia Channels",TransTV
-https://mantul.biz.id:443/user010223/user010223/31.ts
-#EXTINF:-1 tvg-id="TransTV.id" tvg-name="transtv fhd" tvg-logo="https://mantul.biz.id:443/images/lO4I6ENDRiY1iG64O8qqg0ZtrxiLbqvUTLwRTGgU7FkIQ-iTHznxre-gRihG7-7zqFX4kj3z8TL8Ct_A-1hQkPMbFuk3P8lq05Jpx9IxGiQwKzsMdaHB4tfmo1BeDFg4IQLFblQiyf62U1tzgVIkg_wSpQnJfwulH5VZUu9lKcs1TQfGJJW8JFJSu1pgUqsM.png" group-title="Indonesia Channels",TransTV FHD
-https://mantul.biz.id:443/user010223/user010223/240.ts
-
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=26bd60e03bbed7819eea0b27075a1897:d221ba6a6ab66e3083c001d2c4a3e5c5
-#EXTINF:-1 tvg-id="Trans7" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://mantul.biz.id:443/images/S3qjABwxNNrSZo8bz52n6WLRCGvxOa1GP3TWmrz2yel6hKZU3f1qhV-ZxH9taQD1xfGoftVTuxPdDK6hzvyFjg.png" group-title="Indonesia Channels",Trans7 HD
-https://cempedak-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
-
-#EXTINF:-1 tvg-id="Trans7.id" tvg-name="trans 7" tvg-logo="https://mantul.biz.id:443/images/S3qjABwxNNrSZo8bz52n6WLRCGvxOa1GP3TWmrz2yel6hKZU3f1qhV-ZxH9taQD1xfGoftVTuxPdDK6hzvyFjg.png" group-title="Indonesia Channels",Trans 7
-https://mantul.biz.id:443/user010223/user010223/218.ts
-#EXTINF:-1 tvg-name="trans 7 fhd" tvg-logo="https://mantul.biz.id:443/images/S3qjABwxNNrSZo8bz52n6WLRCGvxOa1GP3TWmrz2yel6hKZU3f1qhV-ZxH9taQD1xfGoftVTuxPdDK6hzvyFjg.png" group-title="Indonesia Channels",Trans 7 FHD
-https://mantul.biz.id:443/user010223/user010223/239.ts
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a79a188263724bfcaafc4a7c3b3cd8ce:4d4732d93e6720de0ef884d7106e14f7
-#EXTINF:-1 tvg-id="SCTV - [Channel 89].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png" group-title="Indonesia Channels",SCTV
-https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
-
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=video/mp2t
-#KODIPROP:inputstream.ffmpegdirect.program_number=2154
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#EXTINF:-1 tvg-id="SCTV - [Channel 89].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png" group-title="Indonesia Channels",SCTV
-http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
-
-#EXTINF:-1 tvg-id="SCTV - [Channel 89].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png" group-title="Indonesia Channels",SCTV
-https://mantul.biz.id:443/user010223/user010223/432.ts
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
-#EXTINF:-1 tvg-id="Indosiar - [Channel 78].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://mantul.biz.id:443/images/S3qjABwxNNrSZo8bz52n6WLRCGvxOa1GP3TWmrz2yen6THsAilPp4S7F4Cx1nZ2GRcRhyzLCZ9H61bsrsOEeaQ.png" group-title="Indonesia Channels",Indosiar 
-https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
-
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=video/mp2t
-#KODIPROP:inputstream.ffmpegdirect.program_number=2154
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#EXTINF:-1 tvg-id="Indosiar - [Channel 78].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://mantul.biz.id:443/images/S3qjABwxNNrSZo8bz52n6WLRCGvxOa1GP3TWmrz2yen6THsAilPp4S7F4Cx1nZ2GRcRhyzLCZ9H61bsrsOEeaQ.png" group-title="Indonesia Channels",Indosiar (live)
-http://203.77.246.14:8001/udp/239.1.1.110:5000
-
-#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="indosiar" tvg-logo="https://mantul.biz.id:443/images/S3qjABwxNNrSZo8bz52n6WLRCGvxOa1GP3TWmrz2yen6THsAilPp4S7F4Cx1nZ2GRcRhyzLCZ9H61bsrsOEeaQ.png" group-title="Indonesia Channels",Indosiar
-http://iptv12k.com:35461/654321/123456/4802
-#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="indosiar" tvg-logo="https://mantul.biz.id:443/images/S3qjABwxNNrSZo8bz52n6WLRCGvxOa1GP3TWmrz2yen6THsAilPp4S7F4Cx1nZ2GRcRhyzLCZ9H61bsrsOEeaQ.png" group-title="Indonesia Channels",Indosiar
-https://mantul.biz.id:443/user010223/user010223/60.ts
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=052861ebedab473089d0e7480d0c5b63:4d51aa0304af98c449fdec1548a199f9
-#EXTINF:-1 tvg-id="Moji" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium1.xml" tvg-logo="https://cdns.klimg.com/merdeka.com/i/w/news/2022/08/30/1467272/540x270/moji-surga-tontonan-bagi-pemirsa-olahraga-dan-anak-muda.png" group-title="Indonesia Channels",MOJI TV 
-https://atemecdnbalancer-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd
-
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=video/mp2t
-#KODIPROP:inputstream.ffmpegdirect.program_number=2154
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#EXTINF:-1 tvg-id="Moji" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium1.xml" tvg-logo="https://cdns.klimg.com/merdeka.com/i/w/news/2022/08/30/1467272/540x270/moji-surga-tontonan-bagi-pemirsa-olahraga-dan-anak-muda.png" group-title="Indonesia Channels",MOJI TV (Live)
-https://mantul.biz.id:443/user010223/user010223/8251.ts
-
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6b7bbcf1d511a56e6b3ceda392e4fa33:d1766244d7c1c44efd4c67aafae3ee7b
-#EXTINF:-1 tvg-id="nettv" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium1.xml" tvg-logo="https://mantul.biz.id:443/images/Bh_KsKKmAFbCbf59m4eiZIWNpl71WJ-N2srJ_e6Sch8neanq0wH_u5dVBHwxwTVKQInQYGBEd9vWf1TFi4ez5Q.png" group-title="Indonesia Channels",NET TV HD
-https://cempedak-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
-
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="nettv" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium1.xml" tvg-logo="https://mantul.biz.id:443/images/Bh_KsKKmAFbCbf59m4eiZIWNpl71WJ-N2srJ_e6Sch8neanq0wH_u5dVBHwxwTVKQInQYGBEd9vWf1TFi4ez5Q.png" group-title="Indonesia Channels",NET TV
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
-
-#EXTINF:-1 tvg-id="NET.id" tvg-name="net tv" tvg-logo="https://mantul.biz.id:443/images/Bh_KsKKmAFbCbf59m4eiZIWNpl71WJ-N2srJ_e6Sch8neanq0wH_u5dVBHwxwTVKQInQYGBEd9vWf1TFi4ez5Q.png" group-title="Indonesia Channels",Net TV
-https://mantul.biz.id:443/user010223/user010223/174.ts
-#EXTINF:-1 tvg-id="NET.id" tvg-name="net tv fhd" tvg-logo="https://mantul.biz.id:443/images/Bh_KsKKmAFbCbf59m4eiZIWNpl71WJ-N2srJ_e6Sch8neanq0wH_u5dVBHwxwTVKQInQYGBEd9vWf1TFi4ez5Q.png" group-title="Indonesia Channels",NET TV FHD
-https://mantul.biz.id:443/user010223/user010223/215.ts
-
-#EXTINF:-1 tvg-id="DuniaLain.id" tvg-name="dunia lain" tvg-logo="https://mantul.biz.id:443/images/S3qjABwxNNrSZo8bz52n6WLRCGvxOa1GP3TWmrz2yenxklEBP7HEKyxOfs0CiUfxKjyGo3S64AVCneVsqHn0dw.png" group-title="Indonesia Channels",Dunia Lain
-https://mantul.biz.id:443/user010223/user010223/246.ts
-
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=eb7c09e964e89e668266ea31f2710ffa:0a9832e32206fff46674b8210c9b6897
-#EXTINF:-1 tvg-id="Daai TV" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://mantul.biz.id:443/images/S3qjABwxNNrSZo8bz52n6WLRCGvxOa1GP3TWmrz2yekeseM-WXeyu06mDBSbCi9YvQnUuphxdkuOXl3Z0_v-lQ.png" group-title="Indonesia Channels",DAAI TV
-https://cempedak-live-cdn.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
-
-#EXTINF:-1 tvg-id="DAAITV.id" tvg-name="daai tv" tvg-logo="https://mantul.biz.id:443/images/S3qjABwxNNrSZo8bz52n6WLRCGvxOa1GP3TWmrz2yekeseM-WXeyu06mDBSbCi9YvQnUuphxdkuOXl3Z0_v-lQ.png" group-title="Indonesia Channels",DAAI TV
-https://mantul.biz.id:443/user010223/user010223/207.ts
-
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=30384ee5424eab4afdff34d7a59e0ef9:5f3d2f2c194266ae9a28210f8976cbe0
-#EXTINF:-1 tvg-id="Rajawali TV" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://mantul.biz.id:443/images/S3qjABwxNNrSZo8bz52n6WLRCGvxOa1GP3TWmrz2yemU43nKABVScoFAFRyhT-VEXeBu8etD9AFE51OCkNLUJg.png" group-title="Indonesia Channels",RTV
-https://cempedak-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
-
-#EXTINF:-1 tvg-id="RajawaliTV.id" tvg-name="rtv" tvg-logo="https://mantul.biz.id:443/images/S3qjABwxNNrSZo8bz52n6WLRCGvxOa1GP3TWmrz2yemU43nKABVScoFAFRyhT-VEXeBu8etD9AFE51OCkNLUJg.png" group-title="Indonesia Channels",RTV
-http://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
-#EXTINF:-1 tvg-id="RajawaliTV.id" tvg-name="rtv" tvg-logo="https://mantul.biz.id:443/images/S3qjABwxNNrSZo8bz52n6WLRCGvxOa1GP3TWmrz2yemU43nKABVScoFAFRyhT-VEXeBu8etD9AFE51OCkNLUJg.png" group-title="Indonesia Channels",RTV
-https://mantul.biz.id:443/user010223/user010223/217.ts
-
-#EXTINF:-1 tvg-id="Hanacarakatv" tvg-name="rtv" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_90.png" group-title="Indonesia Channels",Hanacaraka tv
-https://mantul.biz.id:443/user010223/user010223/232.ts
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Jak_tv_logo.svg/revision/latest/scale-to-width-down/250?cb=20131229083154" group-title="Indonesia Channels",Jak TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f2c9087e5432ce2c2f4ae8e1fd77ae4c:f7a50262991ca7d505fce1572a7f0c2a
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-https://d1abp075u76pbq.cloudfront.net/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
-
-#EXTINF:-1 tvg-name="jak tv" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Jak_tv_logo.svg/revision/latest/scale-to-width-down/250?cb=20131229083154" group-title="Indonesia Channels",Jak TV
-https://mantul.biz.id:443/user010223/user010223/209.ts
-#EXTINF:-1 tvg-name="jak tv" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Jak_tv_logo.svg/revision/latest/scale-to-width-down/250?cb=20131229083154" group-title="Indonesia Channels",Jak TV
-http://iptv12k.com:35461/654321/123456/1784
-
-#EXTINF:-1 tvg-id="JTV.id" tvg-name="jtv" tvg-logo="https://mantul.biz.id:443/images/OlKrxfBBdaNWbiLTXpPQXixwS8RIQkdb4v7jKD4Kq1EXJwWjUSSNzdqqz_9yyYdv9ZyCyqBpaYBQ9CmS6TbbqLU2fluoEjKBdfW3IttUm4JPtNeINS-Tuu4g5ZSouy_i6jdok9ZmbdcpHv8p9z-oWjks9BRCQ67M4y-OLyeWx7Qr1pSM-c2c_dJykZ3N2O_j.png" group-title="Indonesia Channels",JTV
-https://mantul.biz.id:443/user010223/user010223/208.ts
-#EXTINF:-1 tvg-id="JTV.id" tvg-name="jtv" tvg-logo="https://mantul.biz.id:443/images/OlKrxfBBdaNWbiLTXpPQXixwS8RIQkdb4v7jKD4Kq1EXJwWjUSSNzdqqz_9yyYdv9ZyCyqBpaYBQ9CmS6TbbqLU2fluoEjKBdfW3IttUm4JPtNeINS-Tuu4g5ZSouy_i6jdok9ZmbdcpHv8p9z-oWjks9BRCQ67M4y-OLyeWx7Qr1pSM-c2c_dJykZ3N2O_j.png" group-title="Indonesia Channels",JTV
-http://iptv12k.com:35461/654321/123456/2165
-#EXTINF:-1 tvg-id="MentariTV.id" tvg-name="mentari tv" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/78/Mentari_TV.png/revision/latest?cb=20210117102858" group-title="Indonesia Channels",Mentari Tv
-https://mantul.biz.id:443/user010223/user010223/35.ts
-#EXTINF:-1 tvg-id="MentariTV.id" tvg-name="mentari tv" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/78/Mentari_TV.png/revision/latest?cb=20210117102858" group-title="Indonesia Channels",Mentari Tv
-https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
-
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjIyMDViNjMtZGQwZi0zODYyLWI2M2ItOTVhNWJjMjgxMjUy
-#EXTINF:-1 tvg-id="VisionPrime.id" tvg-name="vision prime" tvg-logo="https://mantul.biz.id:443/images/mg9e4VnU5MiobcDarwnBsThkRVaTEjGh_pgyHjwTzco.png" group-title="Indonesia Channels",Vision Prime
-https://cempedak-live-cdn.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
-
-#EXTINF:-1 tvg-id="VisionPrime.id" tvg-name="vision prime" tvg-logo="https://mantul.biz.id:443/images/mg9e4VnU5MiobcDarwnBsThkRVaTEjGh_pgyHjwTzco.png" group-title="Indonesia Channels",Vision Prime HD
-http://iptv12k.com:35461/654321/123456/1769
-*******Berita*******
 #EXTINF:-1 tvg-id="PutraTalawi-s9m" tvg-logo="https://cdn3.iconfinder.com/data/icons/social-network-30/512/social-06-512.png" group-title="Berita", Koshwefull 
 https://youtube.com/@PutraTalawi-s9m
 
@@ -3051,15 +2867,6 @@ https://mantul.biz.id:443/user010223/user010223/39.ts
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 group-title="Berita" tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://thumbor.prod.vidiocdn.com/A9PXp2pjYWnd8NZ0oQbwniC31So=/640x360/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8815/metro-globe-network-1ab3f1.jpg",Metro Globe Network
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://edge.medcom.id/live-edge/smil:mgnch.smil/chunklist_w139395680_b2692000_sleng.m3u8
-
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" tvg-url="https://bit.ly/JejeVisionEPG" group-title="Berita",CNBC Indonesia
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1230509683_b384000_sleng.m3u8
@@ -3079,59 +2886,6 @@ https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8
 #EXTINF:-1 tvg-id="CNNIndonesia.id" tvg-name="cnn indonesia" tvg-logo="https://perfecttv.net/logo/cnn.png" group-title="Berita",CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1735522061_b384000_sleng_3520465.m3u8
-
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="TVRI - [Channel 118].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://perfecttv.net/logo/cnn.png" group-title="Berita",CNN Indonesia
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1238913108_b384000_sleng.m3u8
-#EXTINF:-1 tvg-name="mnc news" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/03/MNC_News.png/revision/latest/scale-to-width-down/340?cb=20200927104040" group-title="Berita",MNC NEWS
-https://mantul.biz.id:443/user010223/user010223/10698.ts
-#EXTINF:-1 tvg-id="Moji" tvg-logo="https://cdns.klimg.com/merdeka.com/i/w/news/2022/08/30/1467272/540x270/moji-surga-tontonan-bagi-pemirsa-olahraga-dan-anak-muda.png" group-title="Berita",MOJI TV
-https://mantul.biz.id:443/user010223/user010223/8251.ts
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="Nusantara TV" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Logo_ntv.png/1200px-Logo_ntv.png" group-title="Berita",Nusantara TV
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 group-title="Berita" tvg-id="bnchannel.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/BN_Channel.png",BN Channel
-#EXTVLCOPT:http-user-agent=YouTV/1.7.16-prod.release+8ec73a15 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://flv.intechmedia.net/live/ch112.m3u8
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="Indonesiana TV" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3xG6JT4ibV7X7y6U-h7T5HSRk4Ie8fb60Bp9mF3dHSAjO19tlglhVVY4&s=10" group-title="Berita",Indonesiana TV
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tvstreamcast.com/indonesiana.m3u8
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Logo_GarudaTV_Merah_Putih_Silver_Merah.png/1200px-Logo_GarudaTV_Merah_Putih_Silver_Merah.png" group-title="Berita",Garuda TV
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://hgmtv.com:19360/garudatvlivestreaming/720p.m3u8
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IGIX3o8.jpg" group-title="Berita",TV Kesehatan
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8?checkedby:iptvcat.com
 
 
 **************************TH movie*******************
