@@ -1308,9 +1308,6 @@ http://watchindia.net:8880/live/32612/55103/2421.ts
 
 EXTINF:-1 tvg-id="PutraTalawi-s9m" tvg-logo="https://cdn3.iconfinder.com/data/icons/social-network-30/512/social-06-512.png" group-title="MVTV", Koshwefull 
 https://youtube.com/@PutraTalawi-s9m
-
-#EXTINF:-1 tvg-id="PutraTalawi-s9m" tvg-logo="https://cdn3.iconfinder.com/data/icons/social-network-30/512/social-06-512.png" group-title="Indonesia Channels", Koshwefull 
-https://youtube.com/@PutraTalawi-s9m
 #EXTINF:0 tvg-id="Asianet.in" group-title="Malayalam",Asianet HD (1)
 http://watchindia.net:8880/40972/04523/276
 #EXTINF:0 tvg-id="Asianet.in" group-title="Malayalam",Asianet HD (2)
