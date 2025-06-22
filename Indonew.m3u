@@ -1,4 +1,8 @@
 #EXTM3U
+#EXT-X-VERSION:3 
+#EXT-X-TARGETDURATION:10 
+#EXT-X-MEDIA-SEQUENCE:0 
+#EXT-X-ALLOW-CACHE:YES 
 #EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=1920x1080
 https://raw.githubusercontent.com/Koshwefull/gotv/refs/heads/main/Indonew.m3u
 
