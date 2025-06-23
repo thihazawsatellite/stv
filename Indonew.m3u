@@ -7490,10 +7490,63 @@ http://geogersr.itilstrem.workers.dev/http://www.livedoomovies.com:4432/02_2spor
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 http://geogersr.itilstrem.workers.dev/http://www.livedoomovies.com:4432/02_sport5_480p/chunklist.m3u8
 
-#EXTINF:-0 tvg-id="TrueSport7.th" tvg-name="TrueSport7" tvg-logo="https://images.livebox.co/images/tv/png/sd-tsport7.png" group-title="🔴TRUEVISION",True Sports 7
+#EXTINF:-1 tvg-id="TrueSport7.th" tvg-name="TrueSport7" tvg-logo="https://images.livebox.co/images/tv/png/sd-tsport7.png" group-title="🔴TRUEVISION",True Sports 7
 #EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 http://geogersr.itilstrem.workers.dev/http://www.livedoomovies.com:4432/02_sport7_480p/chunklist.m3u8
+
+#EXTINF:-1  group-title="🔴TRUEVISION" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f3c5240-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",BeinSportHD-01
+#EXTVLCOPT:http-referrer=https://github.com/
+https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/truebein1.m3u8
+
+#EXTINF:-1  group-title="🔴TRUEVISION" tvg-logo="https://3bbtv.co.th/wp-content/themes/changwattana/img/channel/new2025/Sports-One.png",Sport One
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=678bbba596584ad895d2923fb0255e82:c55471086c824112b217743a31abdf8f
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/401/401.mpd
+
+#EXTINF:-1  group-title="🔴TRUEVISION" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f346300-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",BeinSportHD-02
+#EXTVLCOPT:http-referrer=https://github.com/
+https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/truebein2.m3u8
+
+#EXTINF:-1  group-title="🔴TRUEVISION" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5fda18e0-29cc-11ee-846b-a1c4e5181c87_webp_original.webp",BeinSportHD-03
+#EXTVLCOPT:http-referrer=https://github.com/
+https://raw.githubusercontent.com/bestcommt2/m3u8/refs/heads/master/truebein3.m3u8
+
+#EXTINF:-1 group-title="🔴TRUEVISION" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0148.png",HBO HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9c5735afb4fd402580360aed8364469c:128d55d9ac2b47ad85f86b5d08320179
+https://cnt1-streamer9.cdn.3bbtv.com:8443/3bb/live/103/103.mpd
+
+#EXTINF:-1  group-title="🔴TRUEVISION" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/46f1c480-e599-11ed-96ec-4d05b9e2ca86_webp_original.png",True Thaifilm
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truethaifilm.m3u8
+
+#EXTINF:-1  group-title="🔴TRUEVISION" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/456c5d00-e599-11ed-b550-9935ba8025b9_webp_original.webp",True Series
+#https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueseries.m3u8
+
+#EXTINF:-1  group-title="🔴TRUEVISION" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/43f28e40-e599-11ed-844f-795506bf0bf9_webp_original.webp",True Film 1HD
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truefilm1.m3u8
+
+#EXTINF:-1  group-title="🔴TRUEVISION" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/43ffada0-e599-11ed-abcb-c792e696f885_webp_original.webp",True Film 2HD
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truefilm2.m3u8
+
+#EXTINF:-1  group-title="🔴TRUEVISION" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c8f249a0-b44c-11ee-bbdb-077300b4f5a1_webp_original.webp",True Asian More
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueasiamove.m3u8
+
+#EXTINF:-1   group-title="🔴TRUEVISION"
+tvg-name="TrueFilmAsia" tvg-logo="https://img5.pic.in.th/file/secure-sv1/434696d0-e599-11ed-b26c-6b89d082d464_webp_original.png",True Film Asia
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truefilmasia.m3u8
+
+#EXTINF:-1
+group-title="🔴TRUEVISION"" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/187_144.png",TRUE CCM
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueccm.m3u8
+
+#EXTINF:-1   group-title="🔴TRUEVISION" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cccc0160-b44c-11ee-9f05-591527f02603_webp_original.webp",True Movie Hits
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truemoviehit.m3u8
+
+
+#EXTINF:-1   group-title="🔴TRUEVISION" tvg-logo="http://www.channel8thailand.com/img/18378709_1492777084098686_554998105_o.png",Channel 8 THAILAND
+https://cdn-th-vip.livestreaming.in.th/ch8/ch8/playlist.m3u8
+
 
 #########################ASTRO########################
 
