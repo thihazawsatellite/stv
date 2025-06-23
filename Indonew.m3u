@@ -185,9 +185,6 @@ https://ott2.canalplus-myanmar.com/bpk-tv/CANAL_ZATLENN/output2/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=22bc8b4fee6544f3867d093a16ad05a7:ec9d9e621f216266695a30f08b93900f
 https://ott2.canalplus-myanmar.com/bpk-tv/CANAL_ACTION/output2/index.mpd
 
-#EXTINF:-1 group-logo="https://bit.ly/3Q0wxpa" tvg-id=" C+ " tvg-logo="https://bit.ly/3Q0wxpa" group-title="🇲🇲 မြန်မာပြည်C+" ,CANAL_ACTION
-http://bananatv.org:25461/play/i2Mg1_7UfoYAYK2Oxf7VVbXu59lwUqO6afQ3IxXMbcw/.m3u8
-
 #EXTINF:-1 group-logo="https://bit.ly/3Q0wxpa" tvg-id=" C+ " tvg-logo="https://bit.ly/3Q0wxpa" group-title="🇲🇲 မြန်မာပြည်C+" ,CANAL_CHATATE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -528,15 +525,6 @@ https://ott2.canalplus-myanmar.com/bpk-tv/Zing/output2/index.mpd
 https://raw.githubusercontent.com/Koshwefull/gotv/refs/heads/main/SnapTube%20All%20Videos.pls
 
 ###########################################################
-
-
-#EXTM3U x-tvg-url="https://7pal.short.gy/alex-epg" tvg-shift=0
-#EXTM3U add this link to any i.p.t.v players (recommend TiviMate and iMPlayer): https://7pal.short.gy/alxstream or https://bit.ly/sports4kuhd
-#EXTM3U Join Discord server: https://7pal.short.gy/discord
-#EXTM3U Disclaimer: Links were collected by the bot on the internet like Google did. For legal issues, please contact appropriate media file owners/hosters.
-#EXTINF:-1 tvg-id="Info.Guide.Dummy.us" tvg-logo="https://i.imgur.com/3XIe0au.png" group-title="",🌍 Intro 🌍
-https://7pal.short.gy/intro
-
 
 --- 📺 2025 FIFA Club World Cup
 #EXTINF:-1 MV tvg-logo="https://images.daznservices.com/di/library/DAZN_News/d5/9b/club-world-cup_cxhypc2cyb6x1keem1ipefjci.jpg?t=-1245724571" group-title="00.LIVE EVENT", WORLD CUP CLUB 1  
