@@ -7756,63 +7756,6 @@ http://op-group1-swiftservehd-1.dens.tv/h/h05/index.m3u8?app_type=web&amp;userid
 #EXTVLCOPT:http-referrer=http://dens.tv
 https://op-group1-swiftservehd-1.dens.tv/h/h09/01.m3u8?app_type=web&userid=lite&chname=Motorvision%2B
 
-######################ARENA##################################################
-
-#EXTINF:-1 group-title="🔴ARENA SPORTS" tvg-logo="https://i.ibb.co.com/S4Tj3vTf/20250128-194658.jpg",Arena Sport 1
-http://goldenid.online:80/play/sWJF_pqtBVHcjU0L6NpfVS9n6CUopWxHzUAHrdPJKr0
-
-#EXTINF:-1 group-title="🔴ARENA SPORTS" tvg-logo="https://i.ibb.co.com/SXsYc5ct/20250128-194715.jpg",Arena Sport 2
-http://goldenid.online:80/play/sWJF_pqtBVHcjU0L6NpfVZIf-78VeFalQE-myIC0TiM
-
-#EXTINF:-1 group-title="🔴ARENA SPORTS" tvg-logo="https://i.ibb.co.com/KxmsxqKM/20250128-194727.jpg",Arena Sport 3
-http://goldenid.online:80/play/sWJF_pqtBVHcjU0L6NpfVWDG0MR5kzGjQXJZ_z8gceE
-
-#EXTINF:-1 group-title="🔴ARENA SPORTS" tvg-logo="https://i.ibb.co.com/qMKx9zF2/20250128-194744.jpg",Arena Sport 4
-http://goldenid.online:80/play/sWJF_pqtBVHcjU0L6NpfVa8x5k0lvNctycrkGTiFF7M
-
-#EXTINF:-1 group-title="🔴ARENA SPORTS" tvg-logo="https://i.ibb.co.com/Fq8yRZvT/20250128-194804.jpg",Arena Sport 5
-http://goldenid.online:80/play/sWJF_pqtBVHcjU0L6NpfVftvJsAAvWovP76lCN4snNU
-
-#EXTINF:-1 group-title="🔴ARENA SPORTS" tvg-logo="https://i.ibb.co.com/mFPkb8zR/20250128-194854.jpg",Arena Sport 6
-
-
-#EXTINF:-1 group-title="🔴ARENA SPORTS" tvg-logo="https://i.ibb.co.com/nNJ9B8Df/20250128-194910.jpg",Arena Sport 7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"5998265ef8fc5748822fef96229831aa": "9110b6be31b4bbdce67374bae3395269", "5d4b5005dbd355559b3c7fe4dae1fb05": "10e65a5b74158216190e654cdf05b584", "5244c72f4f5d5e1a8778fc93906c9cb3": "4c14a6a924ef7fb32534dd590d99d499"}
-http://goldenid.online:80/play/sWJF_pqtBVHcjU0L6NpfVY_caxMYiB5BSN8XjYTycJc
-
-#EXTINF:-1 group-title="🔴ARENA SPORTS" tvg-logo="https://i.ibb.co.com/Xxm3NYk0/20250128-194925.jpg",Arena Sport 8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"c6fc5b27b74e5b8e82ca19da484eb174": "51f8fd5eef736dccaea9235b621731e7", "b9e9546bc9ba52d1a75fba9222efa7f5": "2cec65c6b79be6c2d4481c6e0ef79bfc", "ca202ac1353a5c6b9960bdbb82f88efc": "7ef86abd9a62042858370852836c50b4"}
-https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena8/default/index.mpd
-
-#EXTINF:-1 group-title="🔴ARENA SPORTS" tvg-logo="https://i.ibb.co.com/zWkVm2jw/20250128-194943.jpg",Arena Sport 9
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"91a56f5aab4c56cb88fbf787187acafe": "0000816079a5ec4f093e3274bda26f2a", "a2ff372a21b35653a88592abfec3f9a7": "d5bc25088d1fda12849aad90716de750", "7ecfd12eb26258c381afadac16ac8fc9": "b4f351533d633abf76cda47fe75d579b"}
-https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena9/default/index.mpd
-
-#EXTINF:-1 group-title="🔴ARENA SPORTS" tvg-logo="https://i.ibb.co.com/N2b9N7Fy/20250128-195004.jpg",Arena Sport 10
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"ee6860a6bf7a5f6c89bcf1794d16e25f": "b573f718f1551d2cf2a335ca778f5604", "03ed75ef7e4c56cb8f81cc17952fc554": "2be3b8e9f4756601e5b263beb14c5908", "ea5736047df25edbb48bd055d48eb3dd": "8b40d3a415517224245a79e907cb8ef0"}
-http://goldenid.online:80/play/sWJF_pqtBVHcjU0L6NpfVRgnYep4jwJ-TMlmsRxmrBk
-
-
-#EXTINF:-1 group-title="🔴ARENA SPORTS" tvg-logo="https://i.ibb.co.com/zWkVm2jw/20250128-194943.jpg",Arena Sport 9
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"91a56f5aab4c56cb88fbf787187acafe": "0000816079a5ec4f093e3274bda26f2a", "a2ff372a21b35653a88592abfec3f9a7": "d5bc25088d1fda12849aad90716de750", "7ecfd12eb26258c381afadac16ac8fc9": "b4f351533d633abf76cda47fe75d579b"}
-https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena9/default/index.mpd
-
-#EXTINF:-1 group-title="🔴ARENA SPORTS" tvg-logo="https://i.ibb.co.com/N2b9N7Fy/20250128-195004.jpg",Arena Sport 10
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"ee6860a6bf7a5f6c89bcf1794d16e25f": "b573f718f1551d2cf2a335ca778f5604", "03ed75ef7e4c56cb8f81cc17952fc554": "2be3b8e9f4756601e5b263beb14c5908", "ea5736047df25edbb48bd055d48eb3dd": "8b40d3a415517224245a79e907cb8ef0"}
-http://goldenid.online:80/play/sWJF_pqtBVHcjU0L6NpfVRgnYep4jwJ-TMlmsRxmrBk
-
 
                       =========SSC=======
                       
@@ -8414,7 +8357,7 @@ https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/UFC%20FIGHT%20PASS.m3u8
 
 #EXTINF:-1 group-title="SPORTS CHANNEL2" tvg-logo="https://i.imgur.com/kPB5ml2.png", FIGHT SPORTS
-#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-referrer=http://www.dens.tv/l
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservehd-1.dens.tv/h/h05/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=FIGHT_SPORTS_HD
 
