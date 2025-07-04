@@ -1174,16 +1174,7 @@ http://nodns1.top:8080/4671739083124675/76ec0877c8d6/25117
 #EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS XTRA 1" tvg-logo="https://docdog.top/logo/countries/bein/beinsportsxtra.png" group-title="ARAB | BEIN",AR: BEIN SPORTS XTRA 1
 http://nodns1.top:8080/4671739083124675/76ec0877c8d6/25121
 
-##########################DAZN####################$#$$#####
-VIP01495172357192093/5abf70f9b02a/129015
-#EXTINF:-1 tvg-id="" tvg-name="FR: TLC" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/TLC.png" group-title="FR | TOP CHAINES VIP",FR: TLC
-http://vipppygnn.top:8080/VIP01495172357192093/5abf70f9b02a/132290
-#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ BOX OFFICE" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/CANAL_BOX_OFFICE.png" group-title="FR | TOP CHAINES VIP",FR: CANAL+ BOX OFFICE
-http://vipppygnn.top:8080/VIP01495172357192093/5abf70f9b02a/132310
-#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ GRAND ÉCRAN" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/CANAL_GRAND_ECRAN.png" group-title="FR | TOP CHAINES VIP",FR: CANAL+ GRAND ÉCRAN
-http://vipppygnn.top:8080/VIP01495172357192093/5abf70f9b02a/132311
-#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ DOCS" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/CANAL_DOCS.png" group-title="FR | TOP CHAINES VIP",FR: CANAL+ DOCS
-http://vipppygnn.top:8080/VIP01495172357192093/5abf70f9b02a/132312
+
 
 
 
@@ -1522,6 +1513,38 @@ http://watchindia.net:8880/live/32612/55103/2657.ts
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 http://watchindia.net:8880/live/32612/55103/2421.ts
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="🔴ESPN",ESPN SD
+https://metalgear.bemtv.cn/STREAM/8322/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZAHnoPh.png" group-title="🔴ESPN",ESPN 2 HD
+https://metalgear.bemtv.cn/STREAM/8324/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VCPTlBD.png" group-title="🔴ESPN",ESPN 3 HD
+http://46.151.196.223:14444/
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ErWFVO3.png" group-title="🔴ESPN",ESPN 4 HD
+https://metalgear.bemtv.cn/STREAM/8328/chunks.m3u8
+       
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Zz2VFpL.png" group-title="🔴ESPN",ESPN 5 HD
+http://cdn.xcore.ca:80/7ybei3gg/ps2lnw4y/197136
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Zz2VFpL.png" group-title="🔴ESPN",ESPN 6 HD
+https://metalgear.bemtv.cn/STREAM/8320/chunks.m3u8
+
+#EXTINF:-1 group-logo="https://iili.io/2y78c5x.png" tvg-id="" tvg-name="PT: ELEVEN 1 HD" tvg-logo="https://iili.io/3EWn30X.jpg" group-title="🔴ESPN",DAZN 1
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117742
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN 2 HD" tvg-logo="https://iili.io/3EWotwv.jpg" group-title="🔴ESPN",DAZN 2
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117745
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN 3 HD" tvg-logo="https://iili.io/3EWxciB.jpg" group-title="🔴ESPN",DAZN 3
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117747
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN 4 HD" tvg-logo="https://iili.io/3EWxis2.jpg" group-title="🔴ESPN",DAZN 4
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117749
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN 5 HD" tvg-logo="https://iili.io/3EWzVr7.jpg" group-title="🔴ESPN",DAZN 5
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117751
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN 6 HD" tvg-logo="https://iili.io/3EWIMZv.jpg" group-title="🔴ESPN",DAZN 6
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117753
 
 
 
