@@ -2956,6 +2956,41 @@ http://103.120.172.74:1030
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%20%202%40.jpeg"group-title="SONY(OTT)",Star Sports Select 2
 http://103.120.172.74:4700
 
+
+#EXTINF:-1 tvg-id="14724" tvg-name="Arena Sport 1 HR" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_1_HR_logo.png" group-title="ARENA HD" ,Arena Sport 1 HR
+http://asterix-iptv.club:25461/24HasijaWhatsappmoj/vkqQL1EMf0/1520
+
+#EXTINF:-1 tvg-id="14725" tvg-name="Arena Sport 2 HR" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_2_HR_logo.png" group-title="ARENA HD" ,Arena Sport 2 HR
+http://asterix-iptv.club:25461/24HasijaWhatsappmoj/vkqQL1EMf0/1519
+
+#EXTINF:-1 tvg-id="14726" tvg-name="Arena Sport 3 HR" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_3_HR_logo.png" group-title="ARENA HD" ,Arena Sport 3 HR
+http://asterix-iptv.club:25461/24HasijaWhatsappmoj/vkqQL1EMf0/1518
+
+#EXTINF:-1 tvg-id="14727" tvg-name="Arena Sport 4 HR" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_4_HR_logo.png" group-title="ARENA HD" ,Arena Sport 4 HR
+http://asterix-iptv.club:25461/24HasijaWhatsappmoj/vkqQL1EMf0/1517
+
+#EXTINF:-1 tvg-id="14728" tvg-name="Arena Sport 5 HR" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_5_HR_logo.png" group-title="ARENA HD" ,Arena Sport 5 HR
+http://asterix-iptv.club:25461/24HasijaWhatsappmoj/vkqQL1EMf0/1516
+
+#EXTINF:-1 tvg-id="14729" tvg-name="Arena Sport 6 HR" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_6_HR_logo.png" group-title="ARENA HD" ,Arena Sport 6 HR
+http://asterix-iptv.club:25461/24HasijaWhatsappmoj/vkqQL1EMf0/1510
+
+#EXTINF:-1 tvg-id="26887" tvg-name="Arena Sport 7 HR" tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/Arena_Sport_7_HR_logo.png" group-title="ARENA HD" ,Arena Sport 7 HR
+http://asterix-iptv.club:25461/24HasijaWhatsappmoj/vkqQL1EMf0/15733
+
+#EXTINF:-1 tvg-id="26888" tvg-name="Arena Sport 8 HR" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_8_HR_logo.png" group-title="ARENA HD" ,Arena Sport 8 HR
+http://asterix-iptv.club:25461/24HasijaWhatsappmoj/vkqQL1EMf0/15734
+
+#EXTINF:-1 tvg-id="26889" tvg-name="Arena Sport 9 HR" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_9_HR_logo.png" group-title="ARENA HD" ,Arena Sport 9 HR
+#EXTVLCOPT:http-referrer=https://fw4free.com/
+http://asterix-iptv.club:25461/24HasijaWhatsappmoj/vkqQL1EMf0/15735
+
+#EXTINF:-1 tvg-id="26890" tvg-name="Arena Sport 10 HR" tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/Arena_Sport_10_HR_logo.png" group-title="ARENA HD" ,Arena Sport 10 HR
+#EXTVLCOPT:http-referrer=https://fw4free.com/
+http://asterix-iptv.club:25461/24HasijaWhatsappmoj/vkqQL1EMf0/15736
+
+
+
 #EXTINF:-1 group-title="🔴TRUEVISION" tvg-id="truepremierfootball1.th" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD1.png",True Premier 1
 #EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
@@ -3023,19 +3058,17 @@ https://fw4free.inwstream.com/fw4free/ch2.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-name="Star Sports Select 1 HD" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_Select_1_HD.png" group-title="⚽ Sports",Star Sports Select 1 HD
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-http://watchindia.net:8880/live/32612/55103/1070.ts
 #http://103.120.172.74:1030
 
 #EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-name="Star Sports Select 2 HD" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_Select_2_HD.png" group-title="⚽ Sports",Star Sports Select 2 HD
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-http://watchindia.net:8880/live/32612/55103/1071.ts
-#http://103.120.172.74:4700
+http://103.120.172.74:4700
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%201%40.jpeg"group-title="⚽ Sports",Star Sports Select 1
 http://103.120.172.74:1030
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%20%202%40.jpeg"group-title="⚽ Sports",Star Sports Select 2
-http://103.120.172.74:4700#
+http://103.120.172.74:4700
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Sportstars_1.png" group-title="SPORTS", SportStars1
