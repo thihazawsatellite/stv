@@ -169,7 +169,8 @@ https://ott2.canalplus-myanmar.com/bpk-tv/CHANNEL_K/output2/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0c92391adac1472bad4f68791b3bb4b8:c887792e197e7f5472371f76709e8f8a
-https://ott2.canalplus-myanmar.com/bpk-tv/CHANNEL7_HD/output2/index.mpd
+https://pplive.comquas.com:5443/LiveApp/streams/CLcBFN71NkF61709008601656.m3u8
+#https://ott2.canalplus-myanmar.com/bpk-tv/CHANNEL7_HD/output2/index.mpd
 
 #EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Sky_net_log_of_myanmar.png" tvg-id=" C+ " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Sky_net_log_of_myanmar.png" group-title="C+" ,CHANNEL_9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
@@ -316,7 +317,8 @@ https://ott2.canalplus-myanmar.com/bpk-tv/MNTV/output2/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=be7f7cbe12a54a27917f21f7310f63ae:101c5da36da54bc88122b932d946e9f7
-https://ott2.canalplus-myanmar.com/bpk-tv/MRTV_4_HD/output2/index.mpd
+https://pplive.comquas.com:5443/LiveApp/streams/w3g3EYjBtqgJ1677679288037.m3u8
+#https://ott2.canalplus-myanmar.com/bpk-tv/MRTV_4_HD/output2/index.mpd
 
 #EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Sky_net_log_of_myanmar.png" tvg-id=" C+ " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Sky_net_log_of_myanmar.png" group-title="C+" ,MRTV_HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
