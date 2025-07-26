@@ -279,7 +279,7 @@ https://ott2.canalplus-myanmar.com/bpk-tv/TVN/output2/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c1e79f41754e43699341208b2d46829e:38c27f941b00f015210813b8392ac505
-streammain.myanmartvchannels.com:999/website-ytv-stream/website-ytv-stream/chunks.m3u8
+https://streammain.myanmartvchannels.com:999/website-ytv-stream/website-ytv-stream/chunks.m3u8
 #https://ott2.canalplus-myanmar.com/bpk-tv/YTV/output2/index.mpd
 
 #EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Sky_net_log_of_myanmar.png" tvg-id=" C+ " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Sky_net_log_of_myanmar.png" group-title="C+" ,ZEE_CINEMA
