@@ -16,7 +16,8 @@ https://pplive.comquas.com:5443/LiveApp/streams/rHEBIW7pjQLU1677679374164.m3u8
 #https://ott2.canalplus-myanmar.com/bpk-tv/MAHARBAWDI/output2/index.mpd
 
 #EXTINF:-1 group-title="MYANMAR TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Sky_net_log_of_myanmar.png", 5 Plus
-https://5a13fe32ef748.streamlock.net/mmplay/5plus/playlist.m3u8
+https://streammain.myanmartvchannels.com:999/website-5plus-stream/website-5plus-stream/chunks.m3u8
+#https://5a13fe32ef748.streamlock.net/mmplay/5plus/playlist.m3u8
 
 #EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Sky_net_log_of_myanmar.png" tvg-id="MYANMAR TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Sky_net_log_of_myanmar.png" group-title="MYANMAR TV" ,CHANNEL7_HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
@@ -370,6 +371,8 @@ http://103.215.194.93:8282/hls/fortunetv/live/vmix_1080.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=463798189bf149098533dd255ca587da:f5a472a439f229dfb10fcf1abe189066
 https://ott2.canalplus-myanmar.com/bpk-tv/GLOBAL_TREKKER/output2/index.mpd
+
+
 ###############################################$###########################
 
 #EXTINF: -1 tvg-id="sony pix" tvg-logo="https://i.imgur.com/QRWhcXH.png" group-title="CANAL+2", SONY PIX
