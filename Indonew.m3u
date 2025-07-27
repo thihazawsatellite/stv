@@ -15,6 +15,14 @@ https://raw.githubusercontent.com/Koshwefull/gotv/refs/heads/main/SnapTube%20All
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1753612870/ei/5q2FaMPZIaGX1d8PtPDEoAg/ip/210.14.102.122/id/94QaVrZvMWY.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AY1jyLNSKQHMG01Kkmi07Qi5FgUNkYPJ_pr32sM-bG2L-apE0Z0vJSaBpdK2SO-eNHhUG0_Bc0pLY6LY/spc/l3OVKTProNEMhYRBr7FSles7T9iycP2bgMOgZU2osHUClqYbNzfNx7oS006akWHmjGk/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51542236/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgMwqkq1naAulHj6VWsOUj5oX0tO8mLXiA3X9qUu31-5QCIQCACcQOytrIV6rlLkvW5GdgjYD4-eZhb6mgS-Mx39qVNw%3D%3D/file/index.m3u8
 #https://ppradio.b-cdn.net/LiveApp/streams/rHEBIW7pjQLU1677679374164.m3u8
 
+#EXTINF:-1 xui-id="836" tvg-id="" tvg-name="BUDDHA" tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaQIjWjMII-7A0lyi_Pwn63px6sim9aPwUGXEOQX=s900-c-k-c0x00ffffff-no-rj" group-title="MYANMAR TV",1+MNC Dhamma
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e1b86f309cef49db8826768dbbda7259:ab4b4a37d84ecbc55a9064f5305c239c
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1753614657/ei/4bSFaMKKEuaAjuMPh-z0qAU/ip/210.14.102.122/id/D8rMoshzLOY.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AY1jyLOyT7IGVrmGMwV1iKsHH_1y4ZlgT18ocNGQMTV4WnlxoWG-2aCq7JcXq1Epnd3NcxpR5PAJV-pI/spc/l3OVKVKpkVnPNDH5Sd55DJCDwqPtgpu-NUTXis0Pu723n3xIRL-CPnEpo7zyEe3thOA/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51542236/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgB2x1UyZtgA33yvzg3L1NG39WN1Dgu-GMTKo7UXfKsyACIQCo2C1whf-V3A8CJsrc59BdoyzYfKtCKO-WSyjxeyLtWQ%3D%3D/file/index.m3u8
+#https://ppradio.b-cdn.net/LiveApp/streams/rHEBIW7pjQLU1677679374164.m3u8
+
 #EXTINF:-1 group-logo="https://bit.ly/3Q0wxpa" tvg-id=" C+ " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Sky_net_log_of_myanmar.png" group-title="MYANMAR TV" ,MAHARBAWDI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -83,6 +91,14 @@ https://live-stream.dvb.no/hls/stream_high/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e1b86f309cef49db8826768dbbda7259:ab4b4a37d84ecbc55a9064f5305c239c
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1753612870/ei/5q2FaMPZIaGX1d8PtPDEoAg/ip/210.14.102.122/id/94QaVrZvMWY.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AY1jyLNSKQHMG01Kkmi07Qi5FgUNkYPJ_pr32sM-bG2L-apE0Z0vJSaBpdK2SO-eNHhUG0_Bc0pLY6LY/spc/l3OVKTProNEMhYRBr7FSles7T9iycP2bgMOgZU2osHUClqYbNzfNx7oS006akWHmjGk/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51542236/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgMwqkq1naAulHj6VWsOUj5oX0tO8mLXiA3X9qUu31-5QCIQCACcQOytrIV6rlLkvW5GdgjYD4-eZhb6mgS-Mx39qVNw%3D%3D/file/index.m3u8
+#https://ppradio.b-cdn.net/LiveApp/streams/rHEBIW7pjQLU1677679374164.m3u8
+
+#EXTINF:-1 xui-id="836" tvg-id="" tvg-name="BUDDHA" tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaQIjWjMII-7A0lyi_Pwn63px6sim9aPwUGXEOQX=s900-c-k-c0x00ffffff-no-rj" group-title="C+",1+MNC Dhamma
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e1b86f309cef49db8826768dbbda7259:ab4b4a37d84ecbc55a9064f5305c239c
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1753614657/ei/4bSFaMKKEuaAjuMPh-z0qAU/ip/210.14.102.122/id/D8rMoshzLOY.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AY1jyLOyT7IGVrmGMwV1iKsHH_1y4ZlgT18ocNGQMTV4WnlxoWG-2aCq7JcXq1Epnd3NcxpR5PAJV-pI/spc/l3OVKVKpkVnPNDH5Sd55DJCDwqPtgpu-NUTXis0Pu723n3xIRL-CPnEpo7zyEe3thOA/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51542236/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgB2x1UyZtgA33yvzg3L1NG39WN1Dgu-GMTKo7UXfKsyACIQCo2C1whf-V3A8CJsrc59BdoyzYfKtCKO-WSyjxeyLtWQ%3D%3D/file/index.m3u8
 #https://ppradio.b-cdn.net/LiveApp/streams/rHEBIW7pjQLU1677679374164.m3u8
 
 
