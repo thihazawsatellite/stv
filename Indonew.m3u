@@ -1,3 +1,107 @@
+#EXTM3U x-tvg-url="https://warningfm.github.io/x1/epg/guide.xml.gz" url-tvg="https://warningfm.github.io/x1/epg/guide.xml.gz, https://www.open-epg.com/files/indonesia1.xml, https://www.open-epg.com/files/indonesia3.xml, https://www.open-epg.com/files/indonesia4.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/starhubtv.xml, https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml, https://www.open-epg.com/files/malaysiapremium1.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml, https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml, https://raw.githubusercontent.com/luizoliveira1970/epg/main/epg.xml, https://www.open-epg.com/files/india1.xml, https://www.open-epg.com/files/portugal.xml, https://www.open-epg.com/files/unitedkingdom4.xml, https://www.open-epg.com/files/unitedstates3.xml, https://www.open-epg.com/files/mexico2.xml, https://www.open-epg.com/files/unitedstates4.xml, https://www.open-epg.com/files/australia1.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SkyGo/epg.xml, https://www.open-epg.com/files/canada3.xml, https://www.open-epg.com/files/france.xml, https://www.open-epg.com/files/germany2.xml, https://www.open-epg.com/files/germany3.xml, https://www.open-epg.com/files/germany4.xml, https://www.open-epg.com/files/switzerland3.xml, https://www.open-epg.com/files/ireland2.xml, https://raw.githubusercontent.com/Nomenteros/Nomentero_Epg/master/Nomenteroguide.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/DStv/za.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/us.xml, https://raw.githubusercontent.com/skutyborsuk/IPTV/master/epg_v5.xml, https://www.open-epg.com/files/netherlands.xml, https://www.open-epg.com/files/turkey3, https://www.open-epg.com/files/italy1.xml, https://www.open-epg.com/files/argentina4.xml, https://www.open-epg.com/files/hongkong4.xml, https://www.open-epg.com/files/hongkong3.xml, https://www.open-epg.com/files/mexico.xml, https://www.open-epg.com/files/thailand.xml, https://www.open-epg.com/files/chile2.xml, https://www.open-epg.com/files/belgium.xml, https://www.open-epg.com/files/belgiumpremium.xml, https://www.open-epg.com/files/irelandpremium.xml, https://www.open-epg.com/files/uaepremium2.xml, https://www.open-epg.com/files/philippines1.xml, https://www.open-epg.com/files/philippines2.xml, https://www.open-epg.com/files/sportspremium1.xml, https://www.open-epg.com/files/koreapremium.xml" refresh="3600"
+
+#EXTM3U url-tvg="https://www.open-epg.com/files/indonesia1.xml, https://www.open-epg.com/files/indonesia3.xml, https://www.open-epg.com/files/indonesia4.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/starhubtv.xml, https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml, https://www.open-epg.com/files/malaysiapremium1.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml, https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml, https://www.open-epg.com/files/india1.xml, https://www.open-epg.com/files/portugal.xml, https://raw.githubusercontent.com/Newbiect/epg/master/guide.xml, https://www.open-epg.com/files/unitedkingdom1.xml, https://www.open-epg.com/files/unitedstates3.xml, https://www.open-epg.com/files/unitedstates4.xml, https://www.open-epg.com/files/australia1.xml, https://raw.githubusercontent.com/luizoliveira1970/epg/main/epg_ripper_BR1.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SkyGo/epg.xml, https://www.open-epg.com/files/canada3.xml, https://www.open-epg.com/files/france.xml, https://www.open-epg.com/files/germany4.xml, https://www.open-epg.com/files/switzerland3.xml, https://raw.githubusercontent.com/soju6jan/epg2/main/file/xmltv_all2.xml, https://www.open-epg.com/files/ireland2.xml, https://raw.githubusercontent.com/Nomenteros/Nomentero_Epg/master/Nomenteroguide.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SkySportNow/epg.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/DStv/za.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/us.xml, https://www.open-epg.com/files/romania.xml, https://raw.githubusercontent.com/skutyborsuk/IPTV/master/epg_v5.xml, https://www.open-epg.com/files/netherlands.xml, https://www.open-epg.com/files/turkey4.xml, https://www.open-epg.com/files/italy1.xml, https://www.open-epg.com/files/argentina.xml, https://www.open-epg.com/files/hongkong4.xml, https://www.open-epg.com/files/hongkong3.xml, https://www.open-epg.com/files/mexico.xml, https://www.open-epg.com/files/thailand.xml, https://www.open-epg.com/files/chile.xml, https://www.open-epg.com/files/belgium.xml, https://www.open-epg.com/files/belgiumpremium.xml, https://www.open-epg.com/files/irelandpremium.xml, https://www.open-epg.com/files/uaepremium2.xml, https://www.open-epg.com/files/polandpremium.xml, https://www.open-epg.com/files/philippinespremium2.xml, https://www.open-epg.com/files/sportspremium1.xml, https://www.open-epg.com/files/koreapremium.xml" refresh="3600"
+
+#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml,"refresh="3600"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml,"refresh="3600"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/thefirefox12537/streams/master/epg/guide.xml.gz,"refresh="3600"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/warningfm/x1/refs/heads/master/epg/guide.xml.gz,"refresh="3600"
+#EXTM3U x-url-tvg="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml"
+
+#EXTM3U billed-msg="📌 by KiNoy >>> PlayList No Public - Khusus untuk Member 📺 KiTV - PlayList ini didapat dari berbagai Sumber 💯% Free !!! -- !!! Selamat Menyaksikan !!!"
+#EXTM3U billed-till="Unlimited"
+
+
+
+██╗░░██╗██╗████████╗██╗░░░██╗          ███╗░░██╗░█████╗░  ░██████╗██╗░██████╗░███╗░░██╗░█████╗░██╗
+██║░██╔╝░░║╚══██╔══╝██║░░░██║          ████╗░██║██╔══██╗  ██╔════╝░░║██╔════╝░████╗░██║██╔══██╗██║
+█████═╝░██║   ██║   ╚██╗░██╔╝  █████╗  ██╔██╗██║██║░░██║  ╚█████╗░██║██║░░██╗░██╔██╗██║███████║██║
+██╔═██╗░██║   ██║    ╚████╔╝   ╚════╝  ██║╚████║██║░░██║  ░╚═══██╗██║██║░░╚██╗██║╚████║██╔══██║██║
+██║ ╚██╗██║   ██║     ╚██╔╝            ██║ ╚███║╚█████╔╝  ██████╔╝██║╚██████╔╝██║ ╚███║██║  ██║███████╗
+╚═╝  ╚═╝╚═╝   ╚═╝      ╚═╝             ╚═╝  ╚══╝ ╚════╝   ╚═════╝ ╚═╝ ╚═════╝ ╚═╝  ╚══╝╚═╝  ╚═╝╚══════╝
+
+
+
+
+===========================================================================================================
+
+
+
+#https://12537-stream-ip-tv.xyz/epg/general/guide.xml.gz, https://weareblahs.github.io/epg/mytv.xml, https://iptv-org.github.io/epg/guides/en/mncvision.id.xml, https://iptv-org.github.io/epg/guides/id/transvision.co.id.xml, https://iptv-org.github.io/epg/guides/id/vidio.com.xml, https://macan.tv/xmltv.php?username=epg&password=epg" refresh="3600"
+#https://rebrand.ly/epgrepublictv1 , https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml" refresh="3600"
+
+
+#EXTM3U url-tvg="https://www.bevy.be/bevyfiles/indonesia.xml"
+#EXTM3U url-tvg="https://www.bevy.be/bevyfiles/indonesiapremium1.xml"
+#EXTM3U url-tvg="https://www.bevy.be/bevyfiles/indonesiapremium2.xml"
+#EXTM3U url-tvg="https://www.bevy.be/bevyfiles/indonesiapremium3.xml"
+#EXTM3U url-tvg="https://www.bevy.be/bevyfiles/indonesiapremium4.xml"
+
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ja/tvguide.myjcom.jp.xml,https://iptv-org.github.io/epg/guides/en/epg.i-cable.com.xml"
+
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml" refresh="3600"
+#EXTM3U x-url-tvg="https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml"
+
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml" refresh="3600"
+#EXTM3U x-url-tvg="https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml"
+
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml" refresh="3600"
+#EXTM3U x-url-tvg="https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml"
+
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/beinsports.com.epg.xml" refresh="3600"
+#EXTM3U x-url-tvg="https://iptv-org.github.io/epg/guides/id/beinsports.com.epg.xml"
+
+#EXTM3U url-tvg="https://link.zozotv.xyz/epgtvku.xml refresh="3600"
+#EXTM3U x-url-tvg="https://link.zozotv.xyz/epgtvku.xml"
+
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml refresh="3600"
+#EXTM3U x-url-tvg="https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml"
+
+#EXTM3U url-tvg="https://macan.tv/xmltv.php?username=epg&password=epg" refresh="3600"
+#EXTM3U x-url-tvg="https://macan.tv/xmltv.php?username=epg&password=epg"
+
+#EXTM3U url-tvg="https://epg.kampung.xyz/IPTV.xml.gz"
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/indihometv.com.xml"
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/transvision.co.id.xml" 
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/en/mncvision.id.xml"
+#EXTM3U url-tvg="https://epg.ksa.my.id/ksa.xml"
+#EXTM3U url-tvg="https://link.zozotv.xyz/epgtvku.xml"
+#EXTM3U url-tvg="https://i.mjh.nz/PlutoTV/all.xml.gz"
+#EXTM3U url-tvg="https://github.com/apollo2000/TVGuide/raw/master/utc.xml.gz"
+#EXTM3U url-tvg="https://i.mjh.nz/nz/epg.xml" 
+#EXTM3U url-tvg="https://epg.kampung.xyz/IPTV.xml.gz"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/weareblahs/epg/main/astro.xml"
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/vidio.com.guide.xml"
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/mncvision.id.guide.xml"
+#EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz"
+#EXTM3U url-tvg="http://epg.urfan.web.id"
+#EXTM3U url-tvg="http://epg.it999.ru/epg.xml.gz"
+#EXTM3U url-tvg="https://weareblahs.github.io/epg/rtmklik.xml"
+#EXTM3U url-tvg="https://weareblahs.github.io/epg/mytv.xml"
+
+#EXTM3U url-tvg="http://aptv.my.id:8080/xmltv.php?username=mvstreams&password=epg&type=m3u_plus&output=hls"
+
+#EXTM3U url-tvg="http://epg.greatiptv.cc/iptv.xml.gz"
+#EXTM3U url-tvg="http://onetv.click/schedule/epg.xml" 
+#EXTM3U url-tvg="http://i.mjh.nz/nzau/epg.xml.gz"
+#EXTM3U url-tvg="http://keereeboon.streaming-fast.com/TIVIMATE/guide.xml"
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/astro.com.my.guide.xml"
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/tvtv.us.guide.xml"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/weareblahs/epg/master/astro.xml" 
+{#EXTM3U url-tvg="https://bit.ly/aqfadtvepg"}
+{#EXTM3U url-tvg="https://epg.ninja/epg/MISC/AUSoptus.xml"}
+{3680de59582949ec9ba83a9ca0754997} drm
+
+https://thefirefox12537.github.io/streams/epg/guide.xml.gz
+
+LoGo >> https://bit.ly/KiTV_LoGo
+
+
+
+===========================================================================================================
+
+
+
 #EXTM3U
 
 #EXTM3U url-tvg="https://bit.ly/IndonesiaEpg" "https://bit.ly/AstroEpg" "https://bit.ly/UnifyEpg" "https://bit.ly/RtmEpg" "https://bit.ly/SingaporeEpg" refresh="1440" max-conn="1" refresh="24"
@@ -570,70 +674,70 @@ http://ott.watch/stream/D3FX33QMIH1/485.m3u8
 ###############################################$###########################
 
 
- #EXTINF:-1 group-title="Children" tvg-rec="7" timeshift="7",Nickelodeon UA HD
- #EXTGRP: Children's
- http://ott.watch/stream/D3FX33QMIH1/127.m3u8
- #EXTINF:-1 group-title="Children" tvg-rec="7" timeshift="7",Nickelodeon
- #EXTGRP: Children's
- http://ott.watch/stream/D3FX33QMIH1/443.m3u8
- #EXTINF:-1 group-title="Children" tvg-rec="7" timeshift="7",Nick Jr
- #EXTGRP: Children's
- http://ott.watch/stream/D3FX33QMIH1/220.m3u8
- #EXTINF:-1 group-title="Children" tvg-rec="7"  timeshift="7",Sun
- #EXTGRP: Children's
- http://ott.watch/stream/D3FX33QMIH1/118.m3u8
- #EXTINF:-1 group-title="Children" tvg-rec="7" timeshift="7",TiJi
- #EXTGRP: Children's
- http://ott.watch/stream/D3FX33QMIH1/111.m3u8
- #EXTINF:-1 group-title="Children's" tvg-rec="7" timeshift="7",HD cartoon
- #EXTGRP: Children's
- http://ott.watch/stream/D3FX33QMIH1/232.m3u8
- #EXTINF:-1 group-title="Children" tvg-rec="7" timeshift="7", Cartoons and music
- #EXTGRP: Children's
- http://ott.watch/stream/D3FX33QMIH1/82.m3u8
- #EXTINF:-1  group-title="Children" tvg-rec="7" timeshift="7",JimJam
- #EXTGRP: Children's
- http://ott.watch/stream/D3FX33QMIH1/150.m3u8
- #EXTINF:-1 group-title="Children's" tvg-rec="7" timeshift="7",Channel O!
- #EXTGRP: Children's
- http://ott.watch/stream/D3FX33QMIH1/60.m3u8
- #EXTINF:-1 group-title="Children" tvg-rec="7" timeshift="7",Captain Fantastic HD
- #EXTGRP: Children's
- http://ott.watch/stream/D3FX33QMIH1/144.m3u8
- #EXTINF:-1 group-title="Children" tvg-rec="7" timeshift="7",Carousel
- #EXTGRP: Children's
- http://ott.watch/stream/D3FX33QMIH1/120.m3u8
- #EXTINF:-1 group-title="Детские" tvg-rec="7" timeshift="7",STS Kids HD
- #EXTGRP: Children's
- http://ott.watch/stream/D3FX33QMIH1/197.m3u8
- #EXTINF:-1  group-title="Children's" tvg-rec="7" timeshift="7",Visiting Fairy Tales HD
- #EXTGRP: Children's
- http://ott.watch/stream/D3FX33QMIH1/93.m3u8
- #EXTINF:-1 group-title="Children" tvg-rec="7" timeshift="7",Gulli Girl
- #EXTGRP: Children's
- http://ott.watch/stream/D3FX33QMIH1/305.m3u8
- #EXTINF:-1 group-title="Children" tvg-rec="7" timeshift="7",Ani
- #EXTGRP: Children's
- http://ott.watch/stream/D3FX33QMIH1/306.m3u8
- #EXTINF:-1 group-title="Children" tvg-rec="7" timeshift="7",Pixel  HD
- #EXTGRP: Children's
- http://ott.watch/stream/D3FX33QMIH1/323.m3u8
- #EXTINF:-1 group-title="Детские" tvg-rec="7" timeshift="7",Fresh Kids HD
- #EXTGRP: Children's
- http://ott.watch/stream/D3FX33QMIH1/425.m3u8
- #EXTINF:-1 group-title="Children" tvg-rec="7" timeshift="7",Cartoons Short HD
- #EXTGRP: Children's
- http://ott.watch/stream/D3FX33QMIH1/347.m3u8
- #EXTINF:-1 group-title="Children" tvg-rec="7" timeshift="7",Cartoons Big HD
- #EXTGRP: Children's
- http://ott.watch/stream/D3FX33QMIH1/348.m3u8
- #EXTINF:-1  group-title="Children" tvg-rec="7" timeshift="7",Cineman Simpsons HD
- #EXTGRP: Children's
- http://ott.watch/stream/D3FX33QMIH1/476.m3u8
- #EXTINF:-1 group-title="Children" tvg-rec="7" timeshift="7",Cartoons 90 HD
- #EXTGRP: Children's
- http://ott.watch/stream/D3FX33QMIH1/484.m3u8
 
+#EXTINF:-1 group-title="Детские" tvg-rec="7" timeshift="7",Nickelodeon UA HD
+#EXTGRP:Детские
+http://ott.watch/stream/DJDLVK3M7TR/127.m3u8
+#EXTINF:-1 group-title="Детские" tvg-rec="7" timeshift="7",Nickelodeon
+#EXTGRP:Детские
+http://ott.watch/stream/DJDLVK3M7TR/443.m3u8
+#EXTINF:-1 group-title="Детские" tvg-rec="7" timeshift="7",Nick Jr
+#EXTGRP:Детские
+http://ott.watch/stream/DJDLVK3M7TR/220.m3u8
+#EXTINF:-1 group-title="Детские" tvg-rec="7" timeshift="7",Солнце
+#EXTGRP:Детские
+http://ott.watch/stream/DJDLVK3M7TR/118.m3u8
+#EXTINF:-1 group-title="Детские" tvg-rec="7" timeshift="7",TiJi
+#EXTGRP:Детские
+http://ott.watch/stream/DJDLVK3M7TR/111.m3u8
+#EXTINF:-1 group-title="Детские" tvg-rec="7" timeshift="7",Мульт HD
+#EXTGRP:Детские
+http://ott.watch/stream/DJDLVK3M7TR/232.m3u8
+#EXTINF:-1 group-title="Детские" tvg-rec="7" timeshift="7",Мульт и музыка
+#EXTGRP:Детские
+http://ott.watch/stream/DJDLVK3M7TR/82.m3u8
+#EXTINF:-1 group-title="Детские" tvg-rec="7" timeshift="7",JimJam
+#EXTGRP:Детские
+http://ott.watch/stream/DJDLVK3M7TR/150.m3u8
+#EXTINF:-1 group-title="Детские" tvg-rec="7" timeshift="7",Канал О!
+#EXTGRP:Детские
+http://ott.watch/stream/DJDLVK3M7TR/60.m3u8
+#EXTINF:-1 group-title="Детские" tvg-rec="7" timeshift="7",Капитан Фантастика HD
+#EXTGRP:Детские
+http://ott.watch/stream/DJDLVK3M7TR/144.m3u8
+#EXTINF:-1 group-title="Детские" tvg-rec="7" timeshift="7",Карусель
+#EXTGRP:Детские
+http://ott.watch/stream/DJDLVK3M7TR/120.m3u8
+#EXTINF:-1 group-title="Детские" tvg-rec="7" timeshift="7",СТС Kids HD
+#EXTGRP:Детские
+http://ott.watch/stream/DJDLVK3M7TR/197.m3u8
+#EXTINF:-1 group-title="Детские" tvg-rec="7" timeshift="7",В гостях у сказки HD
+#EXTGRP:Детские
+http://ott.watch/stream/DJDLVK3M7TR/93.m3u8
+#EXTINF:-1 group-title="Детские" tvg-rec="7" timeshift="7",Gulli Girl
+#EXTGRP:Детские
+http://ott.watch/stream/DJDLVK3M7TR/305.m3u8
+#EXTINF:-1 group-title="Детские" tvg-rec="7" timeshift="7",Ani
+#EXTGRP:Детские
+http://ott.watch/stream/DJDLVK3M7TR/306.m3u8
+#EXTINF:-1 group-title="Детские" tvg-rec="7" timeshift="7",Піксель HD
+#EXTGRP:Детские
+http://ott.watch/stream/DJDLVK3M7TR/323.m3u8
+#EXTINF:-1 group-title="Детские" tvg-rec="7" timeshift="7",Fresh Kids HD
+#EXTGRP:Детские
+http://ott.watch/stream/DJDLVK3M7TR/425.m3u8
+#EXTINF:-1 group-title="Детские" tvg-rec="7" timeshift="7",Cartoons Short HD
+#EXTGRP:Детские
+http://ott.watch/stream/DJDLVK3M7TR/347.m3u8
+#EXTINF:-1 group-title="Детские" tvg-rec="7" timeshift="7",Cartoons Big HD
+#EXTGRP:Детские
+http://ott.watch/stream/DJDLVK3M7TR/348.m3u8
+#EXTINF:-1 group-title="Детские" tvg-rec="7" timeshift="7",Cineman Симпсоны HD
+#EXTGRP:Детские
+http://ott.watch/stream/DJDLVK3M7TR/476.m3u8
+#EXTINF:-1 group-title="Детские" tvg-rec="7" timeshift="7",Cartoons 90 HD
+#EXTGRP:Детские
+http://ott.watch/stream/DJDLVK3M7TR/484.m3u8
 
 
 ##########################$############
@@ -1084,6 +1188,108 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/LoveNatureHD/mpd/LoveNatureHD.mpd
 #https://atemecdnbalancer-voe.sysln.id/live/eds/CGTNDocumentaryHD/mpd/CGTNDocumentaryHD.mpd
 
 ################################################################################
+
+
+
+ #EXTINF:-1 group-title="Музыкальные" tvg-rec="7" timeshift="7",Stingray CMusic HD
+#EXTGRP:Музыкальные
+http://ott.watch/stream/DJDLVK3M7TR/312.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-rec="7" timeshift="7",М1 HD
+#EXTGRP:Музыкальные
+http://ott.watch/stream/DJDLVK3M7TR/218.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-rec="7" timeshift="7",М2 HD
+#EXTGRP:Музыкальные
+http://ott.watch/stream/DJDLVK3M7TR/330.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-rec="7" timeshift="7",BRIDGE DELUXE HD
+#EXTGRP:Музыкальные
+http://ott.watch/stream/DJDLVK3M7TR/92.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-rec="7" timeshift="7",BRIDGE CLASSIC
+#EXTGRP:Музыкальные
+http://ott.watch/stream/DJDLVK3M7TR/272.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-rec="7" timeshift="7",BRIDGE
+#EXTGRP:Музыкальные
+http://ott.watch/stream/DJDLVK3M7TR/318.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-rec="7" timeshift="7",BRIDGE ХИТ
+#EXTGRP:Музыкальные
+http://ott.watch/stream/DJDLVK3M7TR/320.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-rec="7" timeshift="7",Music Box
+#EXTGRP:Музыкальные
+http://ott.watch/stream/DJDLVK3M7TR/319.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-rec="7" timeshift="7",Europa Plus TV
+#EXTGRP:Музыкальные
+http://ott.watch/stream/DJDLVK3M7TR/184.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-rec="7" timeshift="7",Inrating HD
+#EXTGRP:Музыкальные
+http://ott.watch/stream/DJDLVK3M7TR/147.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-rec="7" timeshift="7",МУЗВАР HD
+#EXTGRP:Музыкальные
+http://ott.watch/stream/DJDLVK3M7TR/467.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-rec="7" timeshift="7",MTV Hits
+#EXTGRP:Музыкальные
+http://ott.watch/stream/DJDLVK3M7TR/302.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-rec="7" timeshift="7",MTV Live HD
+#EXTGRP:Музыкальные
+http://ott.watch/stream/DJDLVK3M7TR/215.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-rec="7" timeshift="7",MTV 00s
+#EXTGRP:Музыкальные
+http://ott.watch/stream/DJDLVK3M7TR/165.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-rec="7" timeshift="7",MTV 90s
+#EXTGRP:Музыкальные
+http://ott.watch/stream/DJDLVK3M7TR/88.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-rec="7" timeshift="7",MTV 80s
+#EXTGRP:Музыкальные
+http://ott.watch/stream/DJDLVK3M7TR/87.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-rec="7" timeshift="7",Музыка Первого
+#EXTGRP:Музыкальные
+http://ott.watch/stream/DJDLVK3M7TR/153.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-rec="7" timeshift="7",Муз-ТВ
+#EXTGRP:Музыкальные
+http://ott.watch/stream/DJDLVK3M7TR/86.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-rec="7" timeshift="7",Жара HD
+#EXTGRP:Музыкальные
+http://ott.watch/stream/DJDLVK3M7TR/386.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-rec="7" timeshift="7",RU.TV
+#EXTGRP:Музыкальные
+http://ott.watch/stream/DJDLVK3M7TR/109.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-rec="7" timeshift="7",Mezzo Live HD
+#EXTGRP:Музыкальные
+http://ott.watch/stream/DJDLVK3M7TR/276.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-rec="7" timeshift="7",Stingray iConcerts HD
+#EXTGRP:Музыкальные
+http://ott.watch/stream/DJDLVK3M7TR/267.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-rec="7" timeshift="7",Ля-минор ТВ
+#EXTGRP:Музыкальные
+http://ott.watch/stream/DJDLVK3M7TR/303.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-rec="7" timeshift="7",ТНТ MUSIC
+#EXTGRP:Музыкальные
+http://ott.watch/stream/DJDLVK3M7TR/317.m3u8
+#EXTINF:-1 group-title="Новостные" tvg-rec="7" timeshift="7",Настоящее время HD
+#EXTGRP:Новостные
+http://ott.watch/stream/DJDLVK3M7TR/384.m3u8
+#EXTINF:-1 group-title="Новостные" tvg-rec="7" timeshift="7",EuroNews
+#EXTGRP:Новостные
+http://ott.watch/stream/DJDLVK3M7TR/189.m3u8
+#EXTINF:-1 group-title="Новостные" tvg-rec="7" timeshift="7",Deutsche Welle HD
+#EXTGRP:Новостные
+http://ott.watch/stream/DJDLVK3M7TR/440.m3u8
+#EXTINF:-1 group-title="Новостные" tvg-rec="7" timeshift="7",BBC News HD UK
+#EXTGRP:Новостные
+http://ott.watch/stream/DJDLVK3M7TR/85.m3u8
+#EXTINF:-1 group-title="Новостные" tvg-rec="7" timeshift="7",Рада HD
+#EXTGRP:Новостные
+http://ott.watch/stream/DJDLVK3M7TR/382.m3u8
+#EXTINF:-1 group-title="Новостные" tvg-rec="7" timeshift="7",Еспресо HD
+#EXTGRP:Новостные
+http://ott.watch/stream/DJDLVK3M7TR/84.m3u8
+#EXTINF:-1 group-title="Новостные" tvg-rec="7" timeshift="7",24 Канал HD
+#EXTGRP:Новостные
+http://ott.watch/stream/DJDLVK3M7TR/462.m3u8
+#EXTINF:-1 group-title="Новостные" tvg-rec="7" timeshift="7",FreeДОМ HD
+#EXTGRP:Новостные
+http://ott.watch/stream/DJDLVK3M7TR/63.m3u8
+
+
+##############$$$#################################
 
 
 #EXTM3U
