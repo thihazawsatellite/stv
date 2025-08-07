@@ -221,44 +221,9 @@ https://l1-xl1.myanmarnet.com/relay2/mcs/ch1/stream_standard/index.m3u8
 
 #EXTINF:-1 group-title="MYANMAR TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Sky_net_log_of_myanmar.png", Myanamr Music 
 https://l1-xl1.myanmarnet.com/relay/music/ch1/stream_hi/index.m3u8 
-//-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=54e5216a20164e8091b0f8fba5a55971:30cf9fec26eba4305a4af2eb788eb92c
-https://ott2.canalplus-myanmar.com/bpk-tv/DISCOVERY/output2/index.mpd
 
-#EXTINF:-1 group-logo="https://bit.ly/3Q0wxpa" tvg-id=" C+ " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Sky_net_log_of_myanmar.png" group-title="C+" ,DISCOVERY_ASIA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6172e5f1d2ae4ce4a396387adcdbd995:f33f26ef0cc4d2f34b02860d495e7b4c
-https://ott2.canalplus-myanmar.com/bpk-tv/DISCOVERY_ASIA/output2/index.mpd
 
-canalplus-myanmar.com/bpk-tv/TraceUrban/output2/index.mpd
 
-#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Sky_net_log_of_myanmar.png" tvg-id=" C+ " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Sky_net_log_of_myanmar.png" group-title="C+" ,TVN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=166e3f35f2064c78b66d43c11d6f8faa:694d903da7566927cb046b9df2e39f36
-https://ott2.canalplus-myanmar.com/bpk-tv/TVN/output2/index.mpd
-
-#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Sky_net_log_of_myanmar.png" tvg-id=" C+ " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Sky_net_log_of_myanmar.png" group-title="C+" ,YTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c1e79f41754e43699341208b2d46829e:38c27f941b00f015210813b8392ac505
-https://streammain.myanmartvchannels.com:999/website-ytv-stream/website-ytv-stream/chunks.m3u8
-#https://ott2.canalplus-myanmar.com/bpk-tv/YTV/output2/index.mpd
-
-#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Sky_net_log_of_myanmar.png" tvg-id=" C+ " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Sky_net_log_of_myanmar.png" group-title="C+" ,ZEE_CINEMA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=663bc77b284945de98c13dbb439fcda1:181b7974f942d70924889b6bf845c97d
-https://ott2.canalplus-myanmar.com/bpk-tv/ZEE_CINEMA/output2/index.mpd
-
-#EXTINF:-1 group-
 #######$$$$#########$$$$$$$#################
 
 
