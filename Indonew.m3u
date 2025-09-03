@@ -222,6 +222,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=50c645a10d3e4e4b8a5d7df419dc7566:9c1844243886ee1edc648bcdfdf88b2a
 https://atemeshield1-voe.sysln.id/live/eds/TvNMoviesHD/mpd/TvNMoviesHD.mpd
+
 <============================================================ KNOWLEDGE & DOCUMENTARY ============================================>
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
@@ -489,43 +490,43 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/MTVLiveHD/mpd/MTVLiveHD.mpd
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@####@#@@@@@@@@@@@@@@@@@@@@@£££££££££
 
 
-#EXTINF:-1 group-title=”´ARENA SPORTS" tvg-logo="https://i.ibb.co.com/S4Tj3vTf/20250128-194658.jpg",Arena Sport 1
+#EXTINF:-1 group-title=”ARENA SPORTS" tvg-logo="https://i.ibb.co.com/S4Tj3vTf/20250128-194658.jpg",Arena Sport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 http://xu.port360.xyz:8080/metin-5/p3NHWHu/10442.ts
 
-#EXTINF:-1 group-title=”´ARENA SPORTS" tvg-logo="https://i.ibb.co.com/SXsYc5ct/20250128-194715.jpg",Arena Sport 2
+#EXTINF:-1 group-title=”ARENA SPORTS" tvg-logo="https://i.ibb.co.com/SXsYc5ct/20250128-194715.jpg",Arena Sport 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 http://xu.port360.xyz:8080/metin-5/p3NHWHu/10444.ts
 
-#EXTINF:-1 group-title=”´ARENA SPORTS" tvg-logo="https://i.ibb.co.com/KxmsxqKM/20250128-194727.jpg",Arena Sport 3
+#EXTINF:-1 group-title=”ARENA SPORTS" tvg-logo="https://i.ibb.co.com/KxmsxqKM/20250128-194727.jpg",Arena Sport 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 http://xu.port360.xyz:8080/metin-5/p3NHWHu/10446.ts
 
-#EXTINF:-1 group-title=”´ARENA SPORTS" tvg-logo="https://i.ibb.co.com/qMKx9zF2/20250128-194744.jpg",Arena Sport 4
+#EXTINF:-1 group-title=”ARENA SPORTS" tvg-logo="https://i.ibb.co.com/qMKx9zF2/20250128-194744.jpg",Arena Sport 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 http://xu.port360.xyz:8080/metin-5/p3NHWHu/10448.ts
 
-#EXTINF:-1 group-title=”´ARENA SPORTS" tvg-logo="https://i.ibb.co.com/Fq8yRZvT/20250128-194804.jpg",Arena Sport 5
+#EXTINF:-1 group-title=”ARENA SPORTS" tvg-logo="https://i.ibb.co.com/Fq8yRZvT/20250128-194804.jpg",Arena Sport 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 http://xu.port360.xyz:8080/metin-5/p3NHWHu/10450.ts
 
-#EXTINF:-1 group-title=”´ARENA SPORTS" tvg-logo="https://i.ibb.co.com/mFPkb8zR/20250128-194854.jpg",Arena Sport 6
+#EXTINF:-1 group-title=”ARENA SPORTS" tvg-logo="https://i.ibb.co.com/mFPkb8zR/20250128-194854.jpg",Arena Sport 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 http://xu.port360.xyz:8080/metin-5/p3NHWHu/10452.ts
 
-#EXTINF:-1 group-title=”´ARENA SPORTS" tvg-logo="https://i.ibb.co.com/nNJ9B8Df/20250128-194910.jpg",Arena Sport 7
+#EXTINF:-1 group-title=”ARENA SPORTS" tvg-logo="https://i.ibb.co.com/nNJ9B8Df/20250128-194910.jpg",Arena Sport 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 http://xu.port360.xyz:8080/metin-5/p3NHWHu/10454.ts
 
-#EXTINF:-1 group-title=”´ARENA SPORTS" tvg-logo="https://i.ibb.co.com/Xxm3NYk0/20250128-194925.jpg",Arena Sport 8
+#EXTINF:-1 group-title=”ARENA SPORTS" tvg-logo="https://i.ibb.co.com/Xxm3NYk0/20250128-194925.jpg",Arena Sport 8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 http://xu.port360.xyz:8080/metin-5/p3NHWHu/10455.ts
 
-#EXTINF:-1 group-title=”´ARENA SPORTS" tvg-logo="https://i.ibb.co.com/zWkVm2jw/20250128-194943.jpg",Arena Sport 9
+#EXTINF:-1 group-title=”ARENA SPORTS" tvg-logo="https://i.ibb.co.com/zWkVm2jw/20250128-194943.jpg",Arena Sport 9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 http://xu.port360.xyz:8080/metin-5/p3NHWHu/10456.ts
 
-#EXTINF:-1 group-title=”´ARENA SPORTS" tvg-logo="https://i.ibb.co.com/N2b9N7Fy/20250128-195004.jpg",Arena Sport 10
+#EXTINF:-1 group-title=”ARENA SPORTS" tvg-logo="https://i.ibb.co.com/N2b9N7Fy/20250128-195004.jpg",Arena Sport 10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 http://xu.port360.xyz:8080/metin-5/p3NHWHu/10443.ts
 
@@ -645,6 +646,7 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chu
 
 
 <========================================================= NEWS ============================================================>
+
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -992,6 +994,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/MTV90sHD/mpd/MTV90sHD.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/MTVLiveHD/mpd/MTVLiveHD.mpd
 
 <==================================================== SPORTS ====================================================>
+
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1086,7 +1089,9 @@ https://smart.pendy.dpdns.org/Smart.php?id=go_assp4
 
 #EXTINF:-1 tvg-name="Astro Premier League 1" tvg-id="Astro Premier League 1" tvg-logo="https://livecdn.zbds.top/logo/Astro Premier League 1.png" group-title="Sports", Astro Premier League 1
 https://smart.pendy.dpdns.org/Smart.php?id=go_assp1
+
 <========================================================= NEWS ============================================================>
+
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1204,6 +1209,7 @@ https://wahyu1ptv.pages.dev/Sport.TV5-HD.m3u8
 
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Sport.TV6.png" group-title="SPORTS",084. Sport.TV6
 https://wahyu1ptv.pages.dev/Sport.TV6-HD.m3u8
+
 #########################################################################
 
 
